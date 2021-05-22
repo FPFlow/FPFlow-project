@@ -1,0 +1,1727 @@
+===== qq.com 11 =====
+{'://dp3.qq.com/stdlog': 6}
+===== jd.com 30 =====
+{'https://mercury.jd.com/log.gif': 11}
+===== msn.com 50 =====
+{'https://web.vortex.data.msn.com/collect/v1': 8}
+===== yahoo.co.jp 77 =====
+{'https://logql.yahoo.co.jp/v1/public/yql': 8}
+===== yandex.ru 97 =====
+{'https://yandex.ru/clck/counter': 6}
+===== yy.com 114 =====
+{'wss://h5chl.yy.com/websocket': 11}
+===== amazonaws.com 38 =====
+{'https://amazonwebservicesinc.tt.omtrdc.net/m2/amazonwebservicesinc/ubox/raw': 11}
+===== washingtonpost.com 113 =====
+{':///pf/api/v3/content/fetch/prism-promo': 26}
+===== tinyurl.com 127 =====
+{'://s.tribalfusion.com/insights/impression': 6}
+===== chaturbate.com 124 =====
+{'https://adserver.exoticads.com/cdn-cgi/bm/cv/result': 6}
+===== mail.ru 121 =====
+{'://portal.mail.ru/NaviData': 7, 'https://xray.mail.ru/batch': 17, 'https://an.yandex.ru/meta/443849': 6, 'https://mail.ru/api/v1/utils/xray/batch': 7}
+===== wsj.com 133 =====
+{'https://www.wsj.com/': 69}
+===== tradingview.com 158 =====
+{'wss://data.tradingview.com/socket.io/websocket': 19}
+===== tribunnews.com 153 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== alibaba.com 161 =====
+{'https://retcode-us-west-1.arms.aliyuncs.com/r.png': 12}
+===== instructure.com 169 =====
+{'https://embed-fastly.wistia.com/deliveries/f55ad52bed4ca54974f4318b9c94a5c9.webp': 13}
+===== 1688.com 177 =====
+{'://retcode.taobao.com/r.png': 13}
+===== eventbrite.com 192 =====
+{'https://www.google-analytics.com/collect': 13}
+===== indiatimes.com 207 =====
+{'https://www.google-analytics.com/collect': 7, 'https://securepubads.g.doubleclick.net/gampad/ads': 7}
+===== livejasmin.com 209 =====
+{'://www.googletagmanager.com/a': 9, 'wss://jaws.dditscdn.com/socket.io/': 34}
+===== bilibili.com 224 =====
+{'://data.bilibili.com/log/web': 7}
+===== dailymail.co.uk 166 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 11}
+===== themeforest.net 243 =====
+{'https://www.google-analytics.com/collect': 11}
+===== wired.com 241 =====
+{'://capture.condenastdigital.com/track': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://px.moatads.com/pixel.gif': 11}
+===== youku.com 267 =====
+{'https://gm.mmstat.com/yt/youku.pcweb.control': 19}
+===== livejournal.com 276 =====
+{'https://www.google-analytics.com/collect': 7}
+===== aliyun.com 287 =====
+{'https://page.aliyun.com/delivery/plan/list': 6, 'https://gm.mmstat.com/aliyun-dipper.alioth.resource_exp': 6, 'https://gm.mmstat.com/alitx.22.1': 9, 'https://gm.mmstat.com/aliyun-dipper.merak.delivery_expose_v2': 20}
+===== zendesk.com 289 =====
+{'https://logx.optimizely.com/v1/events': 8}
+===== pixnet.net 305 =====
+{'https://www.google-analytics.com/collect': 7, 'https://imageproxy.pimg.tw/resize': 8}
+===== irs.gov 334 =====
+{'https://brain.foresee.com/state/irs-gov/70b47d92-04fb-456e-ae77-6af3d63d6007': 6}
+===== nationalgeographic.com 331 =====
+{'data://image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=': 8}
+===== theatlantic.com 332 =====
+{'https://www.facebook.com/tr/': 7}
+===== ettoday.net 352 =====
+{'https://www.google-analytics.com/collect': 11, 'https://stats.g.doubleclick.net/j/collect': 6, 'https://pagead2.googlesyndication.com/getconfig/sodar': 11}
+===== digikala.com 372 =====
+{'https://www.google-analytics.com/collect': 8}
+===== mashable.com 413 =====
+{'https://pixel.adsafeprotected.com/services/pub': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== suara.com 451 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== youm7.com 456 =====
+{'https://t.lkqd.net/t': 17, 'https://ssc.33across.com/api/v1/hb': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 13, 'https://www.google-analytics.com/collect': 6}
+===== kumparan.com 471 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== vox.com 474 =====
+{'https://m.dlx.addthis.com/m/moat.xgi': 7}
+===== liputan6.com 487 =====
+{'https://hb.gammaplatform.com/adx/request': 8}
+===== merriam-webster.com 521 =====
+{'https://includemodal.com/static/log.gif': 7}
+===== redd.it 523 =====
+{'https://www.reddit.com/timings/mount': 6}
+===== dw.com 517 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 33, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 33, 'https://adpone-d.openx.net/w/1.0/arj': 32, 'https://ads.betweendigital.com/adjson': 32, 'https://adx.adform.net/adx/': 32, 'https://bidder.criteo.com/cdb': 32, 'https://prg.smartadserver.com/prebid/v1': 32, 'https://hbopenbid.pubmatic.com/translator': 16}
+===== newyorker.com 525 =====
+{'https://dolphin.condenastdigital.com/engines/atmo': 21, '://capture.condenastdigital.com/track': 13, 'https://wren.condenastdigital.com/1.0/conde/events': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://www.facebook.com/tr/': 8, 'https://px.moatads.com/pixel.gif': 11}
+===== merdeka.com 551 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== medicalnewstoday.com 556 =====
+{'https://ingest.make.rvapps.io/v2/t': 11}
+===== hotjar.com 573 =====
+{'https://embed-fastly.wistia.com/deliveries/5b9f521a795b2e4bbfd1258ee7b99639.webp': 8, 'https://embed-fastly.wistia.com/deliveries/07fd3ab01f8e220af27ce809d399559b.webp': 6}
+===== entrepreneur.com 579 =====
+{'wss://widgetdata.tradingview.com/socket.io/websocket': 21}
+===== elpais.com 592 =====
+{':///pf/api/v3/content/fetch/content-api-v4': 16, ':///pf/api/v3/content/fetch/site-menu': 11, ':///pf/api/v3/content/fetch/photo-by-id': 10, ':///pf/api/v3/content/fetch/story-urls': 7}
+===== scientificamerican.com 585 =====
+{'https://ping.chartbeat.net/ping': 6, 'https://px.moatads.com/pixel.gif': 9, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 13, 'https://adpone-d.openx.net/w/1.0/arj': 7, 'https://ap.lijit.com/rtb/bid': 6, 'https://ib.adnxs.com/ut/v3/prebid': 18, 'https://bidder.criteo.com/cdb': 12, 'https://adx.adform.net/adx/': 6, 'https://static.criteo.net/images/pixel.gif': 8, 'https://hbopenbid.pubmatic.com/translator': 12, 'https://prg.smartadserver.com/prebid/v1': 7, 'https://projectagora-483829-hdb.adomik.com/': 7, 'https://trc.taboola.com/scientificamerican728x90gr-r18399079/trc/3/json': 7, 'https://trc.taboola.com/scientificamerican728x90gr-r18399079/log/3/bulk': 7}
+===== mlb.com 617 =====
+{'https://www.facebook.com/tr/': 6}
+===== pcmag.com 626 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 8}
+===== mirror.co.uk 642 =====
+{'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-67e599051dc3/contentcontainer/id': 80}
+===== chron.com 641 =====
+{'https://hearst.blueconic.net/DG/DEFAULT/rest/rpc/251': 6, 'https://track1.aniview.com/track': 10, 'https://atrack.avplayer.com/track': 8, 'https://www.facebook.com/tr/': 6}
+===== sfgate.com 611 =====
+{'https://events.browsiprod.com/events/demand': 11}
+===== chicagotribune.com 607 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 10, 'https://hbopenbid.pubmatic.com/translator': 10, 'https://securepubads.g.doubleclick.net/gampad/ads': 18, 'https://as-sec.casalemedia.com/headerstats': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 15, 'https://googleads4.g.doubleclick.net/pcs/view': 6}
+===== arstechnica.com 662 =====
+{'://capture.condenastdigital.com/track': 6}
+===== cricbuzz.com 648 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 8}
+===== iqiyi.com 714 =====
+{'://msg.qy.net/b': 8, '://msg.qy.net/cp2.gif': 34}
+===== smh.com.au 734 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== nicovideo.jp 743 =====
+{'https://www.google-analytics.com/collect': 16}
+===== nydailynews.com 724 =====
+{'https://hbopenbid.pubmatic.com/translator': 11, 'https://ib.adnxs.com/ut/v3/prebid': 11, 'https://as-sec.casalemedia.com/headerstats': 9, 'https://securepubads.g.doubleclick.net/gampad/ads': 9}
+===== prezi.com 767 =====
+{'https://logx.optimizely.com/v1/events': 10}
+===== setn.com 758 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10, '://www.youtube.com/api/stats/qoe': 6}
+===== venturebeat.com 782 =====
+{'https://pixel.anyclip.com/vmp.gif': 7, 'https://events.browsiprod.com/events/demand': 16}
+===== idntimes.com 798 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== rollingstone.com 794 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 9, 'https://ib.adnxs.com/ut/v3/prebid': 11, 'https://www.facebook.com/tr/': 6, 'https://track1.aniview.com/track': 13, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 10, 'https://hbopenbid.pubmatic.com/translator': 7, 'https://ads.stickyadstv.com/user-matching': 10}
+===== calendly.com 819 =====
+{'https://embed-fastly.wistia.com/deliveries/d09176d2d1963d885e7918ed2a4f3f6435fc64d4.webp': 7}
+===== nba.com 808 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== indianexpress.com 839 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== express.co.uk 825 =====
+{'https://tt.onthe.io/': 20, '://market-dev.s-onetag.com/px.gif': 8, 'https://prg.smartadserver.com/prebid/v1': 7, 'wss://node1.digprod.express.co.uk/ns/': 27, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://dt.adsafeprotected.com/dt': 6}
+===== breitbart.com 821 =====
+{'https://adx.adform.net/adx/': 16, 'https://prg.smartadserver.com/prebid/v1': 16, 'https://ads.betweendigital.com/adjson': 16, 'https://adpone-d.openx.net/w/1.0/arj': 16, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 16, 'https://bidder.criteo.com/cdb': 16, 'https://ib.adnxs.com/ut/v3/prebid': 16}
+===== urbandictionary.com 864 =====
+{'https://cm.g.doubleclick.net/pixel': 6, 'https://ib.adnxs.com/ut/v3/prebid': 8}
+===== gismeteo.ru 885 =====
+{'https://www.google-analytics.com/collect': 10, 'https://mc.yandex.ru/watch/39370095/1': 9}
+===== scmp.com 849 =====
+{'https://apigw.scmp.com/content-delivery/v1': 12}
+===== adjust.com 886 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/32bca614994d486693ba9eea23c92a56.webp': 6}
+===== slashdot.org 891 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 9}
+===== theglobeandmail.com 898 =====
+{'https://px.moatads.com/pixel.gif': 10}
+===== mixcloud.com 905 =====
+{'https://www.mixcloud.com/graphql': 14}
+===== bluehost.com 915 =====
+{'https://www.google-analytics.com/collect': 7}
+===== privacyshield.gov 884 =====
+{'https://www.google-analytics.com/collect': 9}
+===== boston.com 922 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 7, '://compass-events.deliverimp.com/report': 16}
+===== matterport.com 917 =====
+{':///assets/images/SKU-CAM-HANDHELD.png': 20, ':///assets/images/SKU-CAM-ANY360.png': 20, ':///assets/images/SKU-CAM-MC250.png': 20, ':///assets/images/SKU-CAM-LEICA.png': 20}
+===== notion.so 947 =====
+{'https://api.pgncs.notion.so/v1/t': 6}
+===== goo.ne.jp 943 =====
+{'https://goo-access-analytics.appspot.com/': 10, 'https://d.socdm.com/adsv/v1': 6, 'https://g2.gumgum.com/hbid/imp': 6}
+===== arizona.edu 995 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== mapquest.com 990 =====
+{'https://www.google-analytics.com/collect': 8}
+===== t-online.de 1001 =====
+{'https://lb82.s400.meetrics.net/data': 6, 'https://www.google-analytics.com/collect': 7}
+===== ucdavis.edu 1014 =====
+{'https://event-logger.tagboard.com/event/card': 15}
+===== technologyreview.com 1008 =====
+{'https://www.facebook.com/tr/': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 15, 'https://googleads4.g.doubleclick.net/pcs/view': 7, 'https://pagead2.googlesyndication.com/pcs/activeview': 8, 'https://px.moatads.com/pixel.gif': 27}
+===== inquirer.net 1033 =====
+{'https://la-wf.taboola.com/VideoBidRequestHandlerServlet': 7}
+===== vnexpress.net 1025 =====
+{'https://track1.aniview.com/track': 25, 'https://ib.adnxs.com/ut/v3/prebid': 34, 'https://tag.1rx.io/rmp/211377/0/mvo': 17, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 74, 'https://hbopenbid.pubmatic.com/translator': 29, 'https://search.spotxchange.com/openrtb/2.3/dados/287573': 12, 'https://ads.adaptv.advertising.com/rtb/openrtb': 12, 'https://hb.emxdgt.com/': 12}
+===== rbc.ru 1045 =====
+{'https://tttt.onthe.io/': 6}
+===== tv9marathi.com 1021 =====
+{'https://prg8.smartadserver.com/prebid/v1': 11, 'https://nep.advangelists.com/xp/get': 11, 'https://ssc.33across.com/api/v1/hb': 11}
+===== ensonhaber.com 1094 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== kompas.tv 1092 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== smithsonianmag.com 1116 =====
+{'https://www.facebook.com/tr/': 8}
+===== lenta.ru 1130 =====
+{'https://ssp.rambler.ru/context.jsp': 8}
+===== frontier.com 1125 =====
+{'https://frontier.com/rb_d40724e8-4da5-4795-854b-8f813ddd2358': 7, 'https://www.facebook.com/tr/': 6}
+===== accenture.com 1140 =====
+{'https://c.clicktale.net/pageEvent': 7}
+===== adweek.com 1141 =====
+{'https://c.lytics.io/c/abdd09476411aa251d907649c25e11e9': 8, 'https://googleads4.g.doubleclick.net/pcs/view': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://pagead2.googlesyndication.com/getconfig/sodar': 6}
+===== miit.gov.cn 1086 =====
+{'http://www.miit.gov.cn/plugins/advertise/js/adv.js': 7, 'http://www.miit.gov.cn/plugins/accessiblereading/load.js': 7, 'http://www.miit.gov.cn/plugins/libs/articlePagination/articlePaginationLoad.js': 7, 'http://www.miit.gov.cn/plugins/libs/video/videoLoad.js': 7, 'http://www.miit.gov.cn/plugins/libs/articleSlider/articleSliderLoad.js': 7, 'http://www.miit.gov.cn/plugins/libs/hanwebCss/loadHanwebCss.js': 7, 'http://www.miit.gov.cn/script/webglobal.js': 14, 'http://www.miit.gov.cn/plugins/libs/video/video.js': 8, 'http://www.miit.gov.cn/plugins/libs/video/ckplayer/ckplayer.js': 8}
+===== theepochtimes.com 1152 =====
+{'https://subs.youmaker.com/subs/auth': 7}
+===== tmz.com 1160 =====
+{'https://hbopenbid.pubmatic.com/translator': 6, 'https://ssc.33across.com/api/v1/hb': 15, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://warnerbros.technoratimedia.com/openrtb/bids/warnerbros': 6, 'https://warnerbros-d.openx.net/w/1.0/arj': 6, 'https://bidder.criteo.com/cdb': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 15, 'https://htlb.casalemedia.com/cygnus': 6}
+===== pastebin.com 1177 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 10, 'https://c2shb.ssp.yahoo.com/bidRequest': 10}
+===== sina.cn 1190 =====
+{'://beacon.sina.com.cn/b.gif': 6}
+===== ucl.ac.uk 1213 =====
+{'://i1.sndcdn.com/artworks-fFZjeU9T6wY4KAGp-MuL17Q-t500x500.jpg': 7}
+===== biobiochile.cl 1232 =====
+{'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 8}
+===== hurriyet.com.tr 1229 =====
+{'https://ap.lijit.com/rtb/bid': 16, 'https://adpone-d.openx.net/w/1.0/arj': 16, 'https://ib.adnxs.com/ut/v3/prebid': 16, 'https://bidder.criteo.com/cdb': 16, 'https://ads.betweendigital.com/adjson': 16, 'https://adx.adform.net/adx/': 16, 'https://prg.smartadserver.com/prebid/v1': 16, 'https://hbopenbid.pubmatic.com/translator': 16, 'https://htlb.casalemedia.com/cygnus': 16, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 16, 'https://i.connectad.io/api/v2': 16}
+===== vanityfair.com 1220 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://wren.condenastdigital.com/1.0/conde/events': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 9, '://capture.condenastdigital.com/track': 7, 'https://px.moatads.com/pixel.gif': 8}
+===== medscape.com 1237 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://medscapedfp285029738901.s.moatpixel.com/pixel.gif': 15}
+===== pcworld.com 1245 =====
+{'https://www.facebook.com/tr/': 6, 'https://idg.blueconic.net/DG/DEFAULT/rest/rpc/685': 6}
+===== ultimate-guitar.com 1262 =====
+{'://track.ultimate-guitar.com/ug/hb_bid_request.trc': 43, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6}
+===== cancer.org 1265 =====
+{'https://fndrsp.net/t': 8, 'https://www.google-analytics.com/collect': 6}
+===== thestar.com 1283 =====
+{'https://query.petametrics.com/v3/q9fqmmutk5a97trs/7a42c8f2-96fb-4ac0-860c-42e0f492e843/model': 8, 'https://www.thestar.com/api/liftigniter/images': 16}
+===== globalnews.ca 1313 =====
+{'https://dmx.districtm.io/b/v1': 14, 'https://bidder.criteo.com/cdb': 13, 'https://bidder.criteo.com/csm/events': 12, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== amplitude.com 1321 =====
+{'https://embed-fastly.wistia.com/deliveries/34f8eedddd92ac9beaf20043e56cb98e.webp': 6}
+===== foxbusiness.com 1304 =====
+{'https://px.moatads.com/pixel.gif': 6}
+===== lg.com 1336 =====
+{'https://www.google-analytics.com/j/collect': 7, 'https://stats.g.doubleclick.net/j/collect': 6}
+===== computerworld.com 1328 =====
+{'https://www.facebook.com/tr/': 8, 'https://idg.blueconic.net/DG/DEFAULT/rest/rpc/249': 8, 'https://cm.g.doubleclick.net/pixel': 6}
+===== welt.de 1354 =====
+{'https://www.asadcdn.com/flairfire/f.png': 15}
+===== udel.edu 1363 =====
+{'https://www.facebook.com/tr/': 6}
+===== tableau.com 1369 =====
+{'https://c.lytics.io/c/5aea625d92b59f51c9df3da43e09380b': 8}
+===== bleacherreport.com 1372 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 9, 'https://www.youtube.com/youtubei/v1/log_event': 26, 'https://www.facebook.com/tr/': 6, 'https://tracking.jetpackdigital.com/jpt': 6}
+===== deadline.com 1391 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 14, 'https://htlb.casalemedia.com/cygnus': 8, 'https://prebid.a-mo.net/a/c': 8, 'https://grid.bidswitch.net/hbjson': 8, 'https://hb.undertone.com/hb': 8, 'https://c2shb.ssp.yahoo.com/bidRequest': 14, 'https://tlx.3lift.com/header/auction': 8, 'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://api.permutive.com/v2.0/batch/events': 6, 'https://api.permutive.com/v1.0/state': 6, 'https://as-sec.casalemedia.com/headerstats': 9, 'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 20, 'https://pagead2.googlesyndication.com/pcs/activeview': 6, 'https://pixel.adsafeprotected.com/mon': 8, 'https://dt.adsafeprotected.com/dt': 22}
+===== vidio.com 1397 =====
+{'https://plenty.vidio.com/events': 6}
+===== tass.ru 1404 =====
+{'https://tt.onthe.io/': 14, 'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://pagead2.googlesyndication.com/getconfig/sodar': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== chinaz.com 1475 =====
+{'https://a2put.chinaz.com/slot/callback': 20}
+===== doordash.com 1467 =====
+{'https://logx.optimizely.com/v1/events': 12, 'https://api.segment.io/v1/t': 10, 'https://errors.client.optimizely.com/log': 17}
+===== boredpanda.com 1462 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 9}
+===== startribune.com 1494 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 12, 'https://ssc.33across.com/api/v1/hb': 12}
+===== vogue.com 1518 =====
+{'https://wren.condenastdigital.com/1.0/conde/events': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== codecanyon.net 1531 =====
+{'https://www.google-analytics.com/collect': 11}
+===== eventbrite.co.uk 1529 =====
+{'https://www.google-analytics.com/collect': 12}
+===== coingecko.com 1535 =====
+{'wss://cables.coingecko.com/cable': 200, 'https://c2shb.ssp.yahoo.com/bidRequest': 6}
+===== milliyet.com.tr 1538 =====
+{'https://bidder.criteo.com/cdb': 17, 'https://adx.adform.net/adx/': 16, 'https://ap.lijit.com/rtb/bid': 16, 'https://ads.betweendigital.com/adjson': 16, 'https://ib.adnxs.com/ut/v3/prebid': 16, 'https://prg.smartadserver.com/prebid/v1': 16, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 16, 'https://adpone-d.openx.net/w/1.0/arj': 16}
+===== nj.com 1551 =====
+{'https://x054.nj.com/DG/DEFAULT/rest/rpc/972': 7, 'https://www.facebook.com/tr/': 6}
+===== southwest.com 1555 =====
+{'https://soptimize.southwest.com/rest/v1/delivery': 7}
+===== japantimes.co.jp 1540 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 11}
+===== searchengineland.com 1577 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== tabelog.com 1605 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== news18.com 1609 =====
+{'https://hbopenbid.pubmatic.com/translator': 14, 'https://track1.aniview.com/track': 9, 'https://ib.adnxs.com/ut/v3/prebid': 10}
+===== tv9telugu.com 1608 =====
+{'https://nep.advangelists.com/xp/get': 10, 'https://prg8.smartadserver.com/prebid/v1': 11}
+===== jpost.com 1603 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 352, 'https://ap.lijit.com/rtb/bid': 64, 'https://g2.gumgum.com/hbid/imp': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 35, 'https://securepubads.g.doubleclick.net/pcs/view': 43, '://compass-events.deliverimp.com/report': 40, 'https://api.tagdeliver.com/v1/sy/tag/log': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 67, 'https://htlb.casalemedia.com/cygnus': 67, 'https://brightcom-d.openx.net/w/1.0/arj': 67, 'https://hbopenbid.pubmatic.com/translator': 67, 'https://ssc.33across.com/api/v1/hb': 39, 'https://prg.smartadserver.com/prebid/v1': 67, 'https://web.hb.ad.cpe.dotomi.com/cvx/client/hb/ortb/25': 31, 'https://pagead2.googlesyndication.com/getconfig/sodar': 26, 'https://www.facebook.com/tr/': 6, 'https://pagead2.googlesyndication.com/pcs/activeview': 15}
+===== india.com 1607 =====
+{'://e3.adpushup.com/AdPushupFeedbackWebService/feedback': 8, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 10, 'https://la-wf.taboola.com/VideoBidRequestHandlerServlet': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== techrepublic.com 1630 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 8, 'https://ingest.make.rvapps.io/v2/t': 6, 'https://px.moatads.com/pixel.gif': 10, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://cbsdfp5832910442.s.moatpixel.com/pixel.gif': 20}
+===== uga.edu 1647 =====
+{'https://www.google-analytics.com/collect': 7, 'https://www.facebook.com/tr/': 6}
+===== straitstimes.com 1639 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9, 'https://www.facebook.com/tr/': 6}
+===== goal.com 1654 =====
+{'https://ice.360yield.com/hb': 11, 'https://prg.smartadserver.com/prebid/v1': 11, 'https://c2shb.ssp.yahoo.com/bidRequest': 23, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 11}
+===== clarin.com 1656 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 22, 'https://securepubads.g.doubleclick.net/pcs/view': 36, 'https://pagead2.googlesyndication.com/getconfig/sodar': 10, 'https://g2.gumgum.com/hbid/imp': 8, 'https://htlb.casalemedia.com/cygnus': 15, 'https://ib.adnxs.com/ut/v3/prebid': 15, 'https://tlx.3lift.com/header/auction': 7, 'https://ap.lijit.com/rtb/bid': 14, 'https://a.teads.tv/hb/bid-request': 7, 'https://hcodemedia-d.openx.net/w/1.0/arj': 7, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 14, 'https://tpc.googlesyndication.com/ima3vpaid': 8, 'https://hbopenbid.pubmatic.com/translator': 8, 'https://www.facebook.com/tr/': 7, 'https://t.lkqd.net/t': 12}
+===== flashtalking.com 1667 =====
+{'https://www.flashtalking.com/api/census/button-render': 7}
+===== freshdesk.com 1669 =====
+{'https://src.freshmarketer.com/sr': 7, 'https://www.facebook.com/tr/': 6}
+===== csmonitor.com 1681 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 7}
+===== tempo.co 1689 =====
+{'https://hb.gammaplatform.com/adx/request': 8}
+===== knowyourmeme.com 1700 =====
+{'https://ads.blogherads.com/sk/12/122/1226456/26277/boomerang.json': 7, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 11, 'https://ib.adnxs.com/ut/v3/prebid': 11, 'https://g2.gumgum.com/hbid/imp': 10, 'https://c2shb.ssp.yahoo.com/bidRequest': 10, 'https://htlb.casalemedia.com/cygnus': 11, 'https://ap.lijit.com/rtb/bid': 11, 'https://securepubads.g.doubleclick.net/pcs/view': 12, 'https://as-sec.casalemedia.com/headerstats': 11, 'https://ads.servenobid.com/adreq': 6, 'https://collector.sheknows.com/event': 6, 'https://api.rlcdn.com/api/identity/envelope': 6, 'https://dt.adsafeprotected.com/dt': 6, 'https://ssc-cms.33across.com/ps/': 7}
+===== archdaily.com 1743 =====
+{'https://tt.onthe.io/': 9}
+===== wowhead.com 1713 =====
+{'https://pixel.anyclip.com/vmp.gif': 6}
+===== foreignpolicy.com 1770 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 10}
+===== interia.pl 1775 =====
+{'wss://iwa3.hit.interia.pl:8443/collector': 20}
+===== nzherald.co.nz 1769 =====
+{':///pf/api/v3/content/fetch/content-by-id': 41}
+===== lazada.co.th 1778 =====
+{'https://sg.mmstat.com/lzdhome.desktop.bannerLink': 7}
+===== zappos.com 1782 =====
+{'https://amethyst.zappos.com:443/api/v1/events': 16}
+===== 11st.co.kr 1800 =====
+{'://c.011st.com/img/main/v3/partners_default.png': 32, 'https://rake.11st.co.kr/log/putlog/client/871e1b1427359b4f70af57f1b03b1b89becc23d8': 9}
+===== mytheresa.com 1816 =====
+{'https://security-hub.vaimo.network/api/v2.1/dbm': 6}
+===== bolasport.com 1818 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== polygon.com 1831 =====
+{'https://voxcustomdfp152282307853.s.moatpixel.com/pixel.gif': 12}
+===== macrumors.com 1902 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8}
+===== nifty.com 1937 =====
+{'https://rlog.popin.cc/s.gif': 11, 'https://log.popin.cc/log/popin_media/discoverylogs': 9}
+===== barrons.com 1928 =====
+{'://': 19, 'https://ssc-cms.33across.com/ps/': 7}
+===== ivi.ru 1938 =====
+{'https://rocket.ivi.ru/event/': 7}
+===== itmedia.co.jp 1961 =====
+{':///common/cavalry_endpoint.php': 6}
+===== theage.com.au 1962 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== westernjournal.com 1966 =====
+{'https://www.facebook.com/tr/': 6}
+===== adage.com 1965 =====
+{'https://www.facebook.com/tr/': 6}
+===== lulu.com 1987 =====
+{'https://ct.pinterest.com/v3/': 6}
+===== ama-assn.org 1994 =====
+{'https://www.facebook.com/tr/': 9}
+===== mydramalist.com 2012 =====
+{'https://hbopenbid.pubmatic.com/translator': 10, 'https://htlb.casalemedia.com/cygnus': 10, 'https://prg.smartadserver.com/prebid/v1': 16, 'https://ib.adnxs.com/ut/v3/prebid': 12, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://track1.aniview.com/track': 15, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 10, 'https://trk.vidible.tv/trk/impression.gif': 6, 'https://aktrack.pubmatic.com/track': 12, 'https://trk.vidible.tv/trk/display.gif': 6, 'https://trk.vidible.tv/trk/ad-request.gif': 6, 'https://trk.vidible.tv/trk/ad-engine-request.gif': 6, 'https://trk.vidible.tv/trk/ad-engine-response.gif': 6}
+===== ajc.com 2073 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== iz.ru 2093 =====
+{'https://tt.onthe.io/': 7}
+===== channelnewsasia.com 2082 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://tlx.3lift.com/header/auction': 8, 'https://www.facebook.com/tr/': 7}
+===== pancakeswap.finance 2088 =====
+{'https://bsc-dataseed.binance.org/': 352}
+===== gazeta.ru 2140 =====
+{'https://ssp.rambler.ru/context.jsp': 9, 'https://ssp.rambler.ru/blockstat_post': 6, 'https://mc.yandex.ru/watch/27775902/1': 12}
+===== gmanetwork.com 2153 =====
+{'https://px.moatads.com/pixel.gif': 20}
+===== vtv.vn 2164 =====
+{'https://lg1.logging.admicro.vn/cpx_cms': 7}
+===== benzinga.com 2180 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 13, 'https://securepubads.g.doubleclick.net/gampad/ads': 7}
+===== drudgereport.com 2178 =====
+{'https://ap.lijit.com/rtb/bid': 41, 'https://hbopenbid.pubmatic.com/translator': 41, 'https://ssc.33across.com/api/v1/hb': 12, 'https://hb.emxdgt.com/': 41, 'https://ib.adnxs.com/ut/v3/prebid': 79, 'https://securepubads.g.doubleclick.net/gampad/ads': 27, 'https://securepubads.g.doubleclick.net/pcs/view': 32, 'https://www.google-analytics.com/j/collect': 6, 'https://htlb.casalemedia.com/cygnus': 38, 'https://dmx.districtm.io/b/v1': 38, 'https://apex.go.sonobi.com/trinity.json': 38, 'https://px.moatads.com/pixel.gif': 9, 'https://exponential54894892.s.moatpixel.com/pixel.gif': 8}
+===== formstack.com 2198 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/5e8a1871b25738be6e97c180eb11999a.webp': 8}
+===== sporx.com 2210 =====
+{'https://cdn.jwplayer.com/live/channels/6ePIa926.json': 9, 'https://www.facebook.com/tr/': 6}
+===== techsmith.com 2237 =====
+{'https://embed-fastly.wistia.com/deliveries/065f45efecb7d03a0dfdc57cfa333ff5.webp': 6}
+===== pardot.com 2243 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/fd4069e48a11f37aa51c3ba98354decf2435d16b.webp': 13, 'https://distillery.wistia.com/x': 6}
+===== everydayhealth.com 2269 =====
+{'https://cm.g.doubleclick.net/pixel': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== aol.ca 2321 =====
+{'https://o.aolcdn.com/images/dims': 10}
+===== freee.co.jp 2297 =====
+{'https://stats.g.doubleclick.net/j/collect': 7, 'https://www.google-analytics.com/j/collect': 6}
+===== chip.de 2327 =====
+{'https://prg.smartadserver.com/prebid/v1': 10}
+===== sandiegouniontribune.com 2352 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 12}
+===== leparisien.fr 2357 =====
+{':///pf/api/v3/content/fetch/story-card-feed-fullquery': 17, ':///pf/api/v3/content/fetch/site-menu': 6}
+===== cdbaby.com 2360 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 6}
+===== flightradar24.com 2374 =====
+{':///aircraft-icons/sprite': 12}
+===== u.gg 2386 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 16, 'https://c2shb.ssp.yahoo.com/bidRequest': 30}
+===== ynet.co.il 2401 =====
+{'https://www.google-analytics.com/collect': 9, 'https://stats.g.doubleclick.net/j/collect': 7, 'https://events.browsiprod.com/events/demand': 31, 'https://securepubads.g.doubleclick.net/pcs/view': 15}
+===== nationalreview.com 2396 =====
+{'https://nationalreview.blueconic.net/DG/DEFAULT/rest/rpc/1054': 8, 'https://ib.adnxs.com/ut/v3/prebid': 12, 'https://tlx.3lift.com/header/auction': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://htlb.casalemedia.com/cygnus': 6, 'https://nationalreview-d.openx.net/w/1.0/arj': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://prebid-a.rubiconproject.com/event': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 8, 'wss://sic.33across.com/session/839/7oldu7it/websocket': 9, 'https://prd-collector-anon.ex.co/main/events': 6, 'https://track1.aniview.com/track': 7}
+===== habr.com 2404 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://an.yandex.ru/jstracer': 6}
+===== lanacion.com.ar 2415 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://track1.aniview.com/track': 8}
+===== self.com 2387 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 10, '://capture.condenastdigital.com/track': 7}
+===== eastday.com 2418 =====
+{'https://apin.eastday.com/api/Special/SpecialNewsList': 25}
+===== idnes.cz 2424 =====
+{'https://tt.onthe.io/': 9, 'https://trackad.cz/events.php': 13, 'https://adx.adform.net/adx/': 12, 'https://bidder.criteo.com/cdb': 8, 'https://ib.adnxs.com/ut/v3/prebid': 10, 'https://bidder.criteo.com/csm/events': 8}
+===== metacritic.com 2425 =====
+{'https://px.moatads.com/pixel.gif': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://ingest.make.rvapps.io/v2/t': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 12, 'https://cbsdfp5832910442.s.moatpixel.com/pixel.gif': 26}
+===== nownews.com 2448 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://securepubads.g.doubleclick.net/pcs/view': 15, 'https://pagead2.googlesyndication.com/getconfig/sodar': 9}
+===== crictracker.com 2449 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://pagead2.googlesyndication.com/getconfig/sodar': 6}
+===== kitco.com 2452 =====
+{'wss://widgetdata.tradingview.com/socket.io/websocket': 27, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8}
+===== thenation.com 2451 =====
+{'https://ssc.33across.com/api/v1/hb': 17, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 13, 'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 21, 'https://c.pub.network/c': 6}
+===== tampabay.com 2459 =====
+{'https://www.google-analytics.com/collect': 19}
+===== kizlarsoruyor.com 2479 =====
+{'https://www.google-analytics.com/collect': 24}
+===== complex.com 2470 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10, 'https://cm.g.doubleclick.net/pixel': 8, 'https://dt.adsafeprotected.com/dt': 6}
+===== eluniversal.com.mx 2473 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 20, 'https://securepubads.g.doubleclick.net/pcs/view': 14, 'https://pagead2.googlesyndication.com/getconfig/sodar': 11}
+===== sbs.com.au 2490 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 7}
+===== psychcentral.com 2527 =====
+{'https://ingest.make.rvapps.io/v2/t': 11}
+===== pitchfork.com 2526 =====
+{'https://px.moatads.com/pixel.gif': 6}
+===== byjus.com 2559 =====
+{'https://www.google-analytics.com/collect': 17}
+===== dailystar.co.uk 2558 =====
+{'https://prg.smartadserver.com/prebid/v1': 6, 'https://shb.richaudience.com/hb/': 6, 'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-74e153e394bb/contentcontainer/id': 98}
+===== zopim.com 2580 =====
+{'https://logx.optimizely.com/v1/events': 8}
+===== appledaily.com 2598 =====
+{':///pf/api/v3/content/fetch/site-service-v3': 14, ':///pf/api/v3/content/fetch/content-by-id-ttl': 19, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6}
+===== tenable.com 2605 =====
+{'https://api.tenable.com/v1/cart': 10}
+===== edh.tw 2600 =====
+{'https://www.google-analytics.com/collect': 14, 'https://video-lax3-1.xx.fbcdn.net/v/t39.25447-2/10000000_454470262319713_9006917839480139182_n.webm': 7}
+===== ixigua.com 2603 =====
+{'https://mcs.snssdk.com/v1/list': 13}
+===== prom.ua 2619 =====
+{'https://www.google-analytics.com/collect': 12}
+===== hsbc.com.hk 2659 =====
+{'https://www.isstprod.hsbc.com.hk/7759/7854502031/XBW09WEA78JG/jsEvent.json': 6}
+===== bola.net 2656 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== yna.co.kr 2668 =====
+{'https://www.yna.co.kr/': 19}
+===== onelink.me 2637 =====
+{'https://mc.yandex.ru/webvisor/57432745': 7}
+===== avaz.ba 2679 =====
+{'https://t.lkqd.net/t': 7}
+===== sakshi.com 2706 =====
+{'https://kssp.kbntx.ch/ubpbjs': 7, 'https://hb.aralego.com/header': 9, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 6, '://s.tribalfusion.com/insights/impression': 11, 'https://exponential54894892.s.moatpixel.com/pixel.gif': 6, 'https://m.dlx.addthis.com/m/moat.xgi': 6}
+===== newrepublic.com 2742 =====
+{':///graphql': 12}
+===== oneindia.com 2749 =====
+{'https://exponential54894892.s.moatpixel.com/pixel.gif': 7, '://s.tribalfusion.com/insights/impression': 9}
+===== thrillist.com 2765 =====
+{'https://api.permutive.com/v2.0/internal/metrics': 8, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://px.moatads.com/pixel.gif': 19, 'https://pagead2.googlesyndication.com/pcs/activeview': 7}
+===== appleinsider.com 2755 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== tinkoff.ru 2783 =====
+{'https://www.google-analytics.com/collect': 6}
+===== bodybuilding.com 2795 =====
+{'https://www.google-analytics.com/collect': 8}
+===== indiewire.com 2799 =====
+{'https://api.permutive.com/v2.0/internal/metrics': 13, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 11, 'https://dt.adsafeprotected.com/dt': 15}
+===== businessinsider.com.au 2809 =====
+{'https://csi.gstatic.com/csi': 10}
+===== yenisafak.com 2804 =====
+{'https://mc.yandex.ru/webvisor/30098939': 20, 'https://securepubads.g.doubleclick.net/gampad/ads': 20, 'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== sun-sentinel.com 2780 =====
+{'https://htlb.casalemedia.com/cygnus': 9, 'https://hbopenbid.pubmatic.com/translator': 9, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://t.pubmatic.com/wl': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 17}
+===== huya.com 2827 =====
+{'wss://wsapi.huya.com/': 8, 'https://statwup.huya.com/': 6}
+===== morningstar.com 2820 =====
+{'https://px.moatads.com/pixel.gif': 12, 'https://googleads4.g.doubleclick.net/pcs/view': 6}
+===== timeshighereducation.com 2844 =====
+{'https://www.google-analytics.com/collect': 8}
+===== kaskus.co.id 2855 =====
+{'https://www.facebook.com/tr/': 12}
+===== financialexpress.com 2863 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== bleepingcomputer.com 2889 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 14, 'https://c2shb.ssp.yahoo.com/bidRequest': 18, 'https://c.pub.network/c': 6}
+===== logmein.com 2898 =====
+{'://www.googletagmanager.com/a': 6, 'https://embedwistia-a.akamaihd.net/deliveries/9c4c71c506174f5e6825a8ab258832b2.webp': 6}
+===== bigcommerce.com 2883 =====
+{'https://errors.client.optimizely.com/log': 28}
+===== orlandosentinel.com 2884 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 7, 'https://hbopenbid.pubmatic.com/translator': 6}
+===== skillshare.com 2909 =====
+{'://www.googletagmanager.com/a': 8}
+===== al.com 2919 =====
+{'://www.googletagmanager.com/a': 11, 'https://w698.al.com/DG/DEFAULT/rest/rpc/849': 6, 'https://www.facebook.com/tr/': 6}
+===== informationweek.com 2924 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== tenor.com 2968 =====
+{'https://www.google-analytics.com/collect': 7}
+===== yomiuri.co.jp 2978 =====
+{'https://d.socdm.com/adsv/v1': 6}
+===== networkworld.com 3001 =====
+{'https://idg.blueconic.net/DG/DEFAULT/rest/rpc/541': 7, 'https://www.facebook.com/tr/': 6}
+===== starwars.com 3016 =====
+{'https://www.facebook.com/tr/': 7}
+===== xiu.com 2944 =====
+{'https://xiu-obs.obs.cn-south-1.myhuaweicloud.com/1548324684777.jpg': 12}
+===== smore.com 3060 =====
+{'https://embed-fastly.wistia.com/deliveries/b7dbececed263c56b5fd32b025c032c0616c0b40.webp': 11, 'https://embed-fastly.wistia.com/deliveries/dcd3f5d9d1d728fc855ba6074c3f88b8.webp': 8}
+===== firstpost.com 3030 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 8, 'https://r5---sn-a5meknel.googlevideo.com/videoplayback': 12, '://www.youtube.com/api/stats/qoe': 13, 'https://r3---sn-a5meknzr.googlevideo.com/videoplayback': 9, '://www.youtube.com/api/stats/watchtime': 7, '://s.tribalfusion.com/insights/impression': 6}
+===== liberation.fr 3084 =====
+{':///pf/api/v3/content/fetch/resize-image-api': 7, ':///pf/api/v3/content/fetch/story-feed-tag': 7, ':///pf/api/v3/content/fetch/story-feed-sections': 6}
+===== glamour.com 3074 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://wren.condenastdigital.com/1.0/conde/events': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://px.moatads.com/pixel.gif': 11, '://capture.condenastdigital.com/track': 7}
+===== cybozu.com 3087 =====
+{'https://stats.g.doubleclick.net/j/collect': 11, 'https://www.google-analytics.com/collect': 8}
+===== legit.ng 3065 =====
+{'https://tt.onthe.io/': 44, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 10, 'https://prg.smartadserver.com/prebid/v1': 12, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== geekwire.com 3088 =====
+{'https://www.google-analytics.com/collect': 9}
+===== uio.no 3101 =====
+{'https://w3prod-ipproxy.uio.no/collect': 8}
+===== allmusic.com 3096 =====
+{'https://pixel.anyclip.com/vmp.gif': 6}
+===== woot.com 3106 =====
+{'https://www.google-analytics.com/collect': 17}
+===== reason.com 3071 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 12, 'https://g2.gumgum.com/hbid/imp': 32, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 38, 'https://ssc.33across.com/api/v1/hb': 30, 'https://c2shb.ssp.yahoo.com/bidRequest': 38}
+===== kino-teatr.ru 3139 =====
+{'https://ads.betweendigital.com/adjson': 6, 'https://t.cotsta.ru/v4/track/tag/': 23, 'https://ib.adnxs.com/ut/v3/prebid': 20, 'https://hbopenbid.pubmatic.com/translator': 17, 'https://bidder.criteo.com/cdb': 15, 'https://bidder.criteo.com/csm/events': 6, 'https://adpone-d.openx.net/w/1.0/arj': 6, 'https://adx.adform.net/adx/': 14, 'https://prg.smartadserver.com/prebid/v1': 14, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 11, 'https://projectagora-483829-hdb.adomik.com/': 9}
+===== active.com 3166 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 13, 'https://securepubads.g.doubleclick.net/pcs/view': 7, '://i.jsrdn.com/i/1.gif': 10, '://s.tribalfusion.com/insights/impression': 6}
+===== financialpost.com 3173 =====
+{'https://a.wishabi.com/track.gif': 6}
+===== elespanol.com 3187 =====
+{'wss://widgetdata.tradingview.com/socket.io/websocket': 16}
+===== theweek.com 3195 =====
+{'https://www.facebook.com/tr/': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://eum-blue-saas.instana.io': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== qodeinteractive.com 3203 =====
+{'https://www.google-analytics.com/j/collect': 7, 'https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png': 8}
+===== dailykos.com 3212 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8}
+===== mariadb.org 3208 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 13, 'https://www.youtube.com/youtubei/v1/log_event': 21, ':///generate_204': 7}
+===== ewg.org 3219 =====
+{'https://www.google-analytics.com/collect': 16}
+===== thewrap.com 3230 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 12}
+===== realclearpolitics.com 3223 =====
+{'https://track1.aniview.com/track': 10, 'https://hbopenbid.pubmatic.com/translator': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 10, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 10}
+===== dailydot.com 3236 =====
+{'https://www.facebook.com/tr/': 8}
+===== radio.com 3233 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 11}
+===== manchestereveningnews.co.uk 3243 =====
+{'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-14cc93248f99/contentcontainer/id': 85}
+===== khaleejtimes.com 3209 =====
+{'://e3.adpushup.com/AdPushupFeedbackWebService/feedback': 24, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 13, 'https://securepubads.g.doubleclick.net/pcs/view': 21, 'https://get.geojs.io/v1/ip/geo.json': 10, 'https://cdn.vuukle.com/ads/khaleejtimes.com.json': 10, 'https://asset.fireworktv.com/js/77caff83ab0bb4c5ae0094bcf82f1390.png': 10}
+===== 6pm.com 3248 =====
+{'https://amethyst.zappos.com:443/api/v1/events': 12}
+===== britishairways.com 3239 =====
+{'https://www.britishairways.com/rb_bf27670lux': 7}
+===== kcl.ac.uk 3275 =====
+{'https://www.facebook.com/tr/': 7}
+===== smartasset.com 3278 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 8}
+===== plosone.org 3291 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== mxplayer.in 3304 =====
+{'https://j2apps.s.llnwi.net/assets-origin/static/images/default_2x3.webp': 10}
+===== ada.support 3315 =====
+{'https://track.hubspot.com/__ptq.gif': 10}
+===== bangkokpost.com 3331 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 15}
+===== architecturaldigest.com 3329 =====
+{'https://wren.condenastdigital.com/1.0/conde/events': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://analytics.tiktok.com/i18n/pixel/log': 12, '://capture.condenastdigital.com/track': 7}
+===== stltoday.com 3261 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6}
+===== sports.ru 3343 =====
+{'://stat.sports.ru/piwik': 6}
+===== extremetech.com 3312 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://start.specless.tech/report/1': 7}
+===== gridoto.com 3354 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10}
+===== cntraveler.com 3356 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 10, 'https://wren.condenastdigital.com/1.0/conde/events': 7, 'https://px.moatads.com/pixel.gif': 10, '://capture.condenastdigital.com/track': 7}
+===== naturalnews.com 3387 =====
+{'https://opensharecount.com/count.json': 46, 'https://clients6.google.com/rpc': 46, 'https://naturalnews.com/getviews2.asp': 46}
+===== canada.com 3342 =====
+{'https://a.wishabi.com/track.gif': 6}
+===== izooto.com 3386 =====
+{'https://track.hubspot.com/__ptq.gif': 11}
+===== nfpa.org 3391 =====
+{'https://www.facebook.com/tr/': 6}
+===== letterboxd.com 3398 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 16, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 12, 'https://g2.gumgum.com/hbid/imp': 16, 'https://ssc.33across.com/api/v1/hb': 14}
+===== trilltrill.jp 3400 =====
+{'https://pb.ladsp.com/adrequest/prebid': 7, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://y.one.impact-ad.jp/h_bid': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 6, 'https://ad.as.amanad.adtdp.com/v2/prebid': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== republicworld.com 3419 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== epicurious.com 3414 =====
+{'://capture.condenastdigital.com/track': 8}
+===== mensjournal.com 3431 =====
+{'https://www.facebook.com/tr/': 6}
+===== kenh14.vn 3423 =====
+{'https://lg1.logging.admicro.vn/advbcms': 18, 'https://lg1.logging.admicro.vn/cpx_cms': 16, 'https://sspapi.admicro.vn/ssp_page_request/pc/v2': 6, 'https://lg1.logging.admicro.vn/ssp': 6}
+===== instacart.com 3467 =====
+{'https://mgs.instacart.com/v2/t': 7}
+===== wallstreetforum.net 3481 =====
+{'wss://widgetdata.tradingview.com/socket.io/websocket': 10}
+===== sparknotes.com 3498 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 9, 'https://ssc.33across.com/api/v1/hb': 12}
+===== sportskeeda.com 3506 =====
+{'https://improve.sportskeeda.com/api/v1/series': 6, '://compass-events.deliverimp.com/report': 8}
+===== synology.com 3516 =====
+{'https://www.google-analytics.com/j/collect': 11, 'https://stats.g.doubleclick.net/j/collect': 8, '://www.googletagmanager.com/a': 6}
+===== bonappetit.com 3504 =====
+{'://capture.condenastdigital.com/track': 6}
+===== pikabu.ru 3544 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== webinarjam.com 3560 =====
+{'https://app.kartra.com/video/8nt62DwYLN9c/page_play/': 24}
+===== law.com 3552 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 32, 'https://ib.adnxs.com/ut/v3/prebid': 34, 'https://hbopenbid.pubmatic.com/translator': 17, 'https://apex.go.sonobi.com/trinity.json': 17, 'https://web.hb.ad.cpe.dotomi.com/cvx/client/hb/ortb/25': 17, 'https://htlb.casalemedia.com/cygnus': 17, 'https://brightcom-d.openx.net/w/1.0/arj': 17}
+===== beeg.com 3592 =====
+{'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 10}
+===== fordham.edu 3610 =====
+{'https://www.facebook.com/tr/': 6}
+===== dailyrecord.co.uk 3627 =====
+{'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-f5c84e28340e/contentcontainer/id': 16}
+===== crowdworks.jp 3642 =====
+{'data://image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31"></svg>': 12}
+===== c212.net 3678 =====
+{'https://b.6sc.co/v1/beacon/img.gif': 11}
+===== lazada.vn 3702 =====
+{'https://sg.mmstat.com/lzdhome.desktop.bannerLink': 11}
+===== newtalk.tw 3729 =====
+{'https://www.google-analytics.com/collect': 6, ':///common/cavalry_endpoint.php': 6}
+===== marinetraffic.com 3731 =====
+{'https://maps.googleapis.com/maps/vt': 9}
+===== jugantor.com 3713 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 10, 'https://dmx.districtm.io/b/v1': 6, 'https://t.lkqd.net/t': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 13, 'https://pagead2.googlesyndication.com/getconfig/sodar': 10}
+===== warriorplus.com 3747 =====
+{'https://pixel-geo.prfct.co/cs/': 6}
+===== popmama.com 3757 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== nbcnewyork.com 3795 =====
+{'https://bidder.criteo.com/cdb': 6, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 16}
+===== arabnews.com 3842 =====
+{'https://tt.onthe.io/': 12}
+===== 36kr.com 3849 =====
+{'https://adx.36kr.com/api/ad/exposure': 6}
+===== jagranjosh.com 3848 =====
+{'https://shb.richaudience.com/hb/': 9, 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11705.1/5118639/0/0/ADTECH': 11, 'https://track1.aniview.com/track': 6, 'https://cguke-9h64o.ads.tremorhub.com/ad/tag': 8}
+===== sanook.com 3868 =====
+{'://www.googletagmanager.com/a': 6, 'https://hbopenbid.pubmatic.com/translator': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://t.pubmatic.com/wl': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== sportingnews.com 3895 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 8}
+===== shop-pro.jp 3913 =====
+{'https://www.google-analytics.com/collect': 16}
+===== torontosun.com 3912 =====
+{'https://a.wishabi.com/track.gif': 6}
+===== download.com 3881 =====
+{'https://cbsdfp5832910442.s.moatpixel.com/pixel.gif': 6}
+===== houstonchronicle.com 3900 =====
+{'https://www.google-analytics.com/collect': 6, 'https://px.moatads.com/pixel.gif': 11, '://www.googletagmanager.com/a': 9, 'https://www.facebook.com/tr/': 6, 'https://api.permutive.com/v2.0/internal/metrics': 6, 'https://events.browsiprod.com/events/demand': 8}
+===== indosport.com 3928 =====
+{'https://prg.smartadserver.com/prebid/v1': 10, 'https://t.lkqd.net/t': 9}
+===== seattlepi.com 3878 =====
+{'https://atrack.avplayer.com/track': 7, 'https://www.facebook.com/tr/': 6}
+===== fotor.com 3966 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== marketingland.com 3975 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== wwd.com 3942 =====
+{'https://grid.bidswitch.net/hbjson': 8, 'https://tlx.3lift.com/header/auction': 8, 'https://c2shb.ssp.yahoo.com/bidRequest': 12, 'https://prebid.a-mo.net/a/c': 8, 'https://htlb.casalemedia.com/cygnus': 8, 'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 12, 'https://ping.chartbeat.net/ping': 7, 'https://www.facebook.com/tr/': 7, 'https://as-sec.casalemedia.com/headerstats': 9, 'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://api.permutive.com/v2.0/batch/events': 7, 'https://api.permutive.com/v1.0/state': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 18, 'https://pagead2.googlesyndication.com/pcs/activeview': 6, 'https://dt.adsafeprotected.com/dt': 22}
+===== allafrica.com 3995 =====
+{'https://www.google-analytics.com/collect': 17}
+===== mingpao.com 4014 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://csi.gstatic.com/csi': 7, 'https://t.lkqd.net/t': 6}
+===== akc.org 4015 =====
+{'https://akc.blueconic.net/DG/DEFAULT/rest/rpc/184': 6}
+===== hinet.net 4021 =====
+{'://t.ssp.hinet.net/pixel': 7}
+===== auction.co.kr 3986 =====
+{'http://dadispapi.auction.co.kr/target/iac/getad': 6}
+===== graphicriver.net 4024 =====
+{'https://www.google-analytics.com/collect': 11}
+===== ana.co.jp 4040 =====
+{'https://www.facebook.com/tr/': 7}
+===== easyjet.com 4032 =====
+{'https://www.google-analytics.com/collect': 11}
+===== teenvogue.com 4043 =====
+{'https://px.moatads.com/pixel.gif': 6}
+===== dramacool.vc 4050 =====
+{'https://www.google-analytics.com/collect': 11}
+===== idaho.gov 4062 =====
+{'https://www.idaho.gov/assets/data/vi-data.json': 9}
+===== jetblue.com 4087 =====
+{'data://image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAAA1JREFUCB1jePHi5X8ACS4DuZs0+zoAAAAASUVORK5CYII=': 7}
+===== wykop.pl 4132 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6}
+===== worldoftanks.eu 4145 =====
+{'https://stats.g.doubleclick.net/j/collect': 6, 'https://mc.yandex.ru/webvisor/7736143': 7}
+===== xataka.com 4150 =====
+{'https://shb.richaudience.com/hb/': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://t2.richaudience.com/': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 12, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== sheknows.com 4183 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 15, 'https://htlb.casalemedia.com/cygnus': 14, 'https://prebid.a-mo.net/a/c': 7, 'https://grid.bidswitch.net/hbjson': 7, 'https://ap.lijit.com/rtb/bid': 14, 'https://hb.undertone.com/hb': 7, 'https://ib.adnxs.com/ut/v3/prebid': 14, 'https://g2.gumgum.com/hbid/imp': 15, 'https://c2shb.ssp.yahoo.com/bidRequest': 15, 'https://as-sec.casalemedia.com/headerstats': 14, 'https://api.permutive.com/v2.0/batch/events': 7, 'https://api.permutive.com/v1.0/state': 6, 'https://ads.blogherads.com/bh/1/1/1/1968524/boomerang.json': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 15, 'https://pagead2.googlesyndication.com/pcs/activeview': 6, 'https://ads.servenobid.com/adreq': 7, 'https://lockerdome.com/ladbid/prebid': 7, 'https://collector.sheknows.com/event': 7, 'https://dt.adsafeprotected.com/dt': 10, 'https://api.rlcdn.com/api/identity/envelope': 6}
+===== computerhope.com 4189 =====
+{'https://googleads.g.doubleclick.net/pagead/adview': 12}
+===== mindbodygreen.com 4192 =====
+{'https://api.segment.io/v1/t': 9, 'https://www.facebook.com/tr/': 6, 'https://www.google-analytics.com/collect': 10, '://pixel.quantserve.com/pixel': 10, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== iflscience.com 4210 =====
+{'https://adpushup-d.openx.net/w/1.0/arj': 6, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://ib.adnxs.com/ut/v3/prebid': 12, 'https://onetag-sys.com/prebid-request': 6, 'https://ap.lijit.com/rtb/bid': 6, 'https://hbopenbid.pubmatic.com/translator': 6, 'https://as-sec.casalemedia.com/cygnus': 12, 'https://bidder.criteo.com/cdb': 6, 'https://ads.servenobid.com/adreq': 6, 'https://a.teads.tv/hb/bid-request': 6, 'https://prebid.a-mo.net/a/c': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 10, 'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== progressive.com 4219 =====
+{'https://rtds.progressive.com/splunkservices/v1/collectors/logs': 9}
+===== gsk.com 4222 =====
+{':///media/6921/sots-frame.jpg': 8}
+===== sucuri.net 4259 =====
+{'https://www.google-analytics.com/collect': 6}
+===== vesti.ru 4262 =====
+{'https://pulse.imgsmail.ru/imgpreview': 10}
+===== citationmachine.net 4256 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://c.clicktale.net/pageEvent': 6}
+===== mgtv.com 4287 =====
+{'://pcweb-v1.log.mgtv.com/dispatcher.do': 6, 'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 11}
+===== hk01.com 4293 =====
+{'https://track.hk01.com/v1web/piwik.php': 7, 'https://www.google-analytics.com/collect': 6}
+===== kargo.com 4302 =====
+{'https://kargo.com/api/census/button-render': 7}
+===== abplive.com 4292 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 10}
+===== movieweb.com 4281 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8}
+===== streamyard.com 4320 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/ad722317548be5d261f8692e8e27212b.webp': 6}
+===== poynter.org 4328 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 12, 'https://ib.adnxs.com/ut/v3/prebid': 7, 'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== wowma.jp 4343 =====
+{'https://tpocdm.wowma.jp/ad-api/': 7, 'https://ev.tpocdm.com/v1/ev': 11}
+===== csoonline.com 4347 =====
+{'https://www.facebook.com/tr/': 6, 'https://cm.g.doubleclick.net/pixel': 8}
+===== listindiario.com 4337 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 25, 'https://t.lkqd.net/t': 20, 'https://htlb.casalemedia.com/cygnus': 25, 'https://brightcom-d.openx.net/w/1.0/arj': 20, 'https://ib.adnxs.com/ut/v3/prebid': 95, 'https://apex.go.sonobi.com/trinity.json': 20, 'https://web.hb.ad.cpe.dotomi.com/cvx/client/hb/ortb/25': 15, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 55, 'https://hbopenbid.pubmatic.com/translator': 55, 'https://ap.lijit.com/rtb/bid': 55, 'https://securepubads.g.doubleclick.net/gampad/ads': 15, 'https://pagead2.googlesyndication.com/getconfig/sodar': 9, 'https://bidder.criteo.com/cdb': 30, 'https://ads.betweendigital.com/adjson': 30, 'https://prg.smartadserver.com/prebid/v1': 30, 'https://adpone-d.openx.net/w/1.0/arj': 30, 'https://adx.adform.net/adx/': 30, 'https://v.lkqd.net/ad': 6, 'https://cm.g.doubleclick.net/pixel': 6}
+===== statefarm.com 4350 =====
+{'https://logx.optimizely.com/v1/events': 7}
+===== seesaw.me 4360 =====
+{'https://web.seesaw.me/api/census/button-render': 6}
+===== imore.com 4374 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== allure.com 4383 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 10}
+===== ada.org 4401 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== broadwayworld.com 4397 =====
+{'https://www.broadwayworld.com/porpoiseant/ezoadata': 21}
+===== infoseek.co.jp 4419 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== bestbuy.ca 4410 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== radikal.ru 4445 =====
+{'https://adx.adform.net/adx/': 25, 'https://bidder.criteo.com/cdb': 12, 'https://prg.smartadserver.com/prebid/v1': 25, 'https://adpone-d.openx.net/w/1.0/arj': 12, 'https://ib.adnxs.com/ut/v3/prebid': 25, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 25, 'https://hbopenbid.pubmatic.com/translator': 25, 'https://projectagora-483829-hdb.adomik.com/': 13, 'https://trc.taboola.com/radikal300x250gr-r18513502/trc/3/json': 13, 'https://trc.taboola.com/radikal300x250gr-r18513502/log/3/bulk': 13}
+===== icrc.org 4466 =====
+{'https://www.facebook.com/tr/': 7}
+===== tasteofhome.com 4472 =====
+{'https://api.permutive.com/v2.0/internal/metrics': 6}
+===== syosetu.com 4491 =====
+{'https://d-track.send.microad.jp/bl_track.cgi': 20, 'https://aid.send.microad.jp/g/pc/asr': 20, 'https://aid.send.microad.jp/g/sp/asr': 20}
+===== nhm.ac.uk 4522 =====
+{'https://www.nhm.ac.uk/etc/designs/nhmwww/img/svg-icons/icon_l_general_arrow_r.svg': 6}
+===== townhall.com 4532 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 10}
+===== dw.de 4492 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 33, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 33, 'https://ads.betweendigital.com/adjson': 32, 'https://adpone-d.openx.net/w/1.0/arj': 32, 'https://prg.smartadserver.com/prebid/v1': 32, 'https://adx.adform.net/adx/': 32, 'https://bidder.criteo.com/cdb': 32, 'https://hbopenbid.pubmatic.com/translator': 16}
+===== annals.org 4568 =====
+{'https://stats.g.doubleclick.net/j/collect': 6}
+===== pgatour.com 4535 =====
+{'https://px.moatads.com/pixel.gif': 6}
+===== thediplomat.com 4581 =====
+{'://compass-events.deliverimp.com/report': 8}
+===== makezine.com 4583 =====
+{'https://track1.aniview.com/track': 12, 'https://ib.adnxs.com/ut/v3/prebid': 10, 'https://hbopenbid.pubmatic.com/translator': 11}
+===== sfexaminer.com 4601 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 11, 'https://includemodal.com/service/imp/91532438-f31b-4086-8018-7cd68ddba2a3/': 6}
+===== sheffield.ac.uk 4604 =====
+{'https://www.google-analytics.com/j/collect': 7}
+===== wrike.com 4614 =====
+{'https://www.google-analytics.com/collect': 6}
+===== vedomosti.ru 4611 =====
+{'https://ostrich.vedomosti.ru/api/v1/': 6}
+===== dream.co.id 4621 =====
+{'https://hbopenbid.pubmatic.com/translator': 6}
+===== medcom.id 4627 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10}
+===== las2orillas.co 4635 =====
+{'https://t.lkqd.net/t': 17, 'https://www.youtube.com/youtubei/v1/log_event': 9}
+===== hackaday.com 4644 =====
+{'https://pixel-geo.prfct.co/cs/': 6}
+===== azlyrics.com 4647 =====
+{'https://ap.lijit.com/rtb/bid': 16, 'https://ib.adnxs.com/ut/v3/prebid': 17, 'https://ssc.33across.com/api/v1/hb': 18, 'https://htlb.casalemedia.com/cygnus': 16, 'https://hbopenbid.pubmatic.com/translator': 16, 'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 18, '://s.tribalfusion.com/insights/impression': 8, 'https://px.moatads.com/pixel.gif': 9, 'https://m.dlx.addthis.com/m/moat.xgi': 7, 'https://hb.emxdgt.com/': 15, 'https://apex.go.sonobi.com/trinity.json': 15, 'https://pagead2.googlesyndication.com/getconfig/sodar': 12}
+===== eventbrite.ca 4662 =====
+{'https://www.google-analytics.com/collect': 12}
+===== laleggepertutti.it 4661 =====
+{'https://tt.onthe.io/': 8, 'https://www.youtube.com/youtubei/v1/log_event': 6}
+===== etonline.com 4683 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://cbsdfp5832910442.s.moatpixel.com/pixel.gif': 12}
+===== okstate.edu 4682 =====
+{'https://r1---sn-a5mlrnes.googlevideo.com/videoplayback': 9}
+===== ktla.com 4688 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 9}
+===== techinasia.com 4702 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== icons8.com 4712 =====
+{'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 15}
+===== ccm.net 4714 =====
+{'https://prg.smartadserver.com/prebid/v1': 17, 'https://la-wf.taboola.com/VideoBidRequestHandlerServlet': 20, 'https://ioms.bfmio.com/getmu': 10, 'https://la-vid-events.taboola.com/OpportunityServlet': 16, 'https://ads.stickyadstv.com/vast/vpaid-adapter/7042993': 8, 'https://ads.stickyadstv.com/auto-user-sync': 11, 'https://ads.stickyadstv.com/user-matching': 22, 'https://ads.adaptv.advertising.com/a/h/s3HE3sPl14rh4AB_pxEbyq+HVGYgiZbnGh1e3+vYsbL+g0z6G+O4fw==': 6, 'https://trk.vidible.tv/trk/impression.gif': 6, 'https://trk.vidible.tv/trk/display.gif': 6, 'https://trk.vidible.tv/trk/ad-request.gif': 6, 'https://trk.vidible.tv/trk/ad-engine-request.gif': 6}
+===== diariolibre.com 4733 =====
+{'https://diariolibre.blueconic.net/DG/DEFAULT/rest/rpc/253': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 14, 'https://securepubads.g.doubleclick.net/pcs/view': 29, 'https://pagead2.googlesyndication.com/getconfig/sodar': 15, 'https://www.google-analytics.com/collect': 17}
+===== beinsports.com 4752 =====
+{'wss://speedtest.dailymotion.com/speedtest': 7}
+===== gigafile.nu 4758 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 19, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== grammy.com 4759 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== liverpoolecho.co.uk 4760 =====
+{'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-b72c1a6f9789/contentcontainer/id': 79}
+===== fandango.com 4736 =====
+{'https://nbcudisplay.s.moatpixel.com/pixel.gif': 11}
+===== gamasutra.com 4763 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 11}
+===== tuoitre.vn 4766 =====
+{'https://lg1.logging.admicro.vn/advbcms': 15, 'https://lg1.logging.admicro.vn/cpx_cms': 21, 'https://lg1.logging.admicro.vn/ssp': 6}
+===== sierraclub.org 4795 =====
+{'https://logx.optimizely.com/v1/events': 6}
+===== businesstoday.com.tw 4805 =====
+{'https://www.google-analytics.com/collect': 8}
+===== muckrack.com 4810 =====
+{'https://track.hubspot.com/__ptq.gif': 6}
+===== tenor.co 4818 =====
+{'https://www.google-analytics.com/collect': 7}
+===== project-syndicate.org 4823 =====
+{'://i1.sndcdn.com/artworks-qScHwaH0Cr577iqI-OzAvlg-t500x500.jpg': 7}
+===== buffalonews.com 4827 =====
+{'https://www.google-analytics.com/collect': 15}
+===== aircanada.com 4809 =====
+{'https://www.aircanada.com/rb_bf84021mlt': 7, 'https://www.facebook.com/tr/': 9}
+===== popdaily.com.tw 4830 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== moengage.com 4843 =====
+{'wss://session.browsee.io/session': 13}
+===== otto.de 4865 =====
+{'https://www.otto.de/benefit-presentation/lever/slideshow': 6}
+===== wtop.com 4879 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== getgo.com 4903 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/9c4c71c506174f5e6825a8ab258832b2.webp': 6, 'https://embed-fastly.wistia.com/deliveries/1b5ff8ce904c0f5cc911637ffe92cceb9c4f9e85.webp': 6}
+===== gothamist.com 4908 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6}
+===== tenki.jp 4916 =====
+{'https://y.one.impact-ad.jp/h_bid': 7, 'https://pb.ladsp.com/adrequest/prebid': 8, 'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://g2.gumgum.com/hbid/imp': 8, 'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== thedrive.com 4937 =====
+{'https://g2.gumgum.com/hbid/imp': 14, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6}
+===== milb.com 4897 =====
+{'https://statsapi.mlb.com/api/v1/schedule': 8, 'https://event-logger.tagboard.com/event/card': 8, 'https://securepubads.g.doubleclick.net/pcs/view': 9, 'https://syndication.twitter.com/i/jot': 10, 'https://ib.adnxs.com/ut/v3/prebid': 6}
+===== kongregate.com 4951 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10}
+===== webtoons.com 4954 =====
+{'https://www.google-analytics.com/collect': 6}
+===== capitaloneshopping.com 4961 =====
+{'https://images.wikibuy.com/api/v1/logos': 6}
+===== walesonline.co.uk 4968 =====
+{'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-530063b48e37/contentcontainer/id': 83}
+===== univision.com 4977 =====
+{'https://ssc-cms.33across.com/ps/': 7}
+===== sfweekly.com 4964 =====
+{'https://includemodal.com/static/log.gif': 8}
+===== worldatlas.com 5020 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 7, 'https://track1.aniview.com/track': 10, 'https://tag.1rx.io/rmp/234214/0/mvo': 6, 'https://htlb.casalemedia.com/cygnus': 6, 'https://hb.emxdgt.com/': 6, 'https://hbopenbid.pubmatic.com/translator': 6, 'https://ads.adaptv.advertising.com/rtb/openrtb': 6, 'https://snigel-d.openx.net/v/1.0/avjp': 6, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 6}
+===== parade.com 5018 =====
+{'https://www.google-analytics.com/collect': 6}
+===== heraldnet.com 5022 =====
+{'https://soundpublishing.blueconic.net/DG/DEFAULT/rest/rpc/131': 15}
+===== greatist.com 5054 =====
+{'https://ingest.make.rvapps.io/v2/t': 11}
+===== ally.com 5030 =====
+{'https://secure.ally.com/acs/celebrus-api/7970/9007199397147413/XBW09WEA78JG/jsEvent.json': 7}
+===== autonews.com 5097 =====
+{'https://trc-events.taboola.com/1307489/log/3/unip': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 12, 'https://px.moatads.com/pixel.gif': 16}
+===== youradchoices.ca 5107 =====
+{'https://youradchoices.ca/api/census/button-render': 17}
+===== payforessay.net 5116 =====
+{'https://payforessay.net/wp-content/special/proxy_order.php': 12}
+===== dailyherald.com 5137 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 9}
+===== phonearena.com 5157 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://prg.smartadserver.com/prebid/v1': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 14, 'https://securepubads.g.doubleclick.net/pcs/view': 15, 'https://pagead2.googlesyndication.com/getconfig/sodar': 8}
+===== sport-express.ru 5171 =====
+{'://ss.sport-express.ru/fb/img/icons/betcity/betcity_short.svg': 23}
+===== movember.com 5182 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 13, 'https://www.facebook.com/tr/': 6}
+===== le.ac.uk 5183 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== ezgif.com 5194 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6}
+===== montrealgazette.com 5206 =====
+{'https://a.wishabi.com/track.gif': 6}
+===== bitrix24.ru 5193 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 16, 'https://www.youtube.com/youtubei/v1/log_event': 23, ':///generate_204': 10}
+===== kbs.co.kr 5191 =====
+{'https://r5---sn-a5meknll.googlevideo.com/videoplayback': 12}
+===== cafef.vn 5235 =====
+{'https://lg1.logging.admicro.vn/advbcms': 19, 'https://lg1.logging.admicro.vn/cpx_cms': 15, 'https://sspapi.admicro.vn/ssp_page_request/pc/v2': 8, 'https://surfcountor.com/advbcms': 6, 'https://lg1.logging.admicro.vn/ssp': 7}
+===== diabetesjournals.org 5248 =====
+{'https://www.diabetesjournals.org/highwire/sub-data': 8}
+===== tensorflow.org 5245 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 8}
+===== nbclosangeles.com 5275 =====
+{'https://bidder.criteo.com/cdb': 6, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 20}
+===== wonderhowto.com 5282 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://pagead2.googlesyndication.com/getconfig/sodar': 8}
+===== birminghammail.co.uk 5306 =====
+{'https://livecomments.viafoura.co/v4/livecomments/00000000-0000-4000-8000-289a5c4e7396/contentcontainer/id': 91}
+===== lung.org 5311 =====
+{'https://www.facebook.com/tr/': 6}
+===== the-scientist.com 5317 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== talkingpointsmemo.com 5325 =====
+{':///wp-content/themes/talkingpointsmemo/assets/images/logo/TPMRedes_PrimeLogo_Red.svg': 7}
+===== togetter.com 5331 =====
+{'https://rlog.popin.cc/s.gif': 7}
+===== memurlar.net 5333 =====
+{'https://www.google-analytics.com/collect': 10, 'https://t.lkqd.net/t': 22}
+===== betanews.com 5338 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 12}
+===== techtudo.com.br 5361 =====
+{'https://www.facebook.com/tr/': 6}
+===== ryerson.ca 5369 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== forbes.ru 5370 =====
+{'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 6, 'https://www.facebook.com/tr/': 6}
+===== ensighten.com 5391 =====
+{'https://s.xlgmedia.com/2/2.3.0/384197/AIcefScHCel16Ph7/postback': 6}
+===== deccanherald.com 5364 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 17, 'wss://speedtest.dailymotion.com/speedtest': 14, 'https://securepubads.g.doubleclick.net/pcs/view': 20, 'https://track1.aniview.com/track': 39, 'https://pagead2.googlesyndication.com/getconfig/sodar': 18, 'https://vidcrunch-d.openx.net/v/1.0/avjp': 62, 'https://ads.adaptv.advertising.com/rtb/openrtb': 55, 'https://search.spotxchange.com/openrtb/2.3/dados/282709': 40, 'https://ib.adnxs.com/ut/v3/prebid': 38, 'https://tag.1rx.io/rmp/205427/0/mvo': 31, 'https://vidcrunch.technoratimedia.com/openrtb/bids/vidcrunch': 31, 'https://tag.1rx.io/rmp/205428/0/mvo': 31, 'https://ads.stickyadstv.com/www/delivery/swfIndex.php': 14, 'https://trk.vidible.tv/trk/impression.gif': 6, 'https://trk.vidible.tv/trk/display.gif': 6, 'https://trk.vidible.tv/trk/ad-request.gif': 6, 'https://trk.vidible.tv/trk/ad-engine-request.gif': 6, 'https://px.moatads.com/pixel.gif': 6, 'https://trk.vidible.tv/trk/ad-engine-response.gif': 6, 'https://apex.go.sonobi.com/trinity.json': 7}
+===== wyborcza.pl 5402 =====
+{'https://squid.gazeta.pl/bdtrck/updDcEv': 25}
+===== komonews.com 5403 =====
+{'https://ssc.33across.com/api/v1/hb': 8, 'https://c2shb.ssp.yahoo.com/bidRequest': 8}
+===== csis.org 5420 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 10}
+===== au.dk 5431 =====
+{'https://www.google-analytics.com/collect': 7, 'https://stats.g.doubleclick.net/j/collect': 7}
+===== astm.org 5437 =====
+{'https://embed-fastly.wistia.com/deliveries/2f5a0a6199f91895148c031ee1482628.webp': 6}
+===== nbcchicago.com 5438 =====
+{':///weather/latest.json/': 8, 'https://bidder.criteo.com/cdb': 6, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 9, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 19}
+===== jiji.com 5444 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://y.one.impact-ad.jp/h_bid': 6, 'https://pb.ladsp.com/adrequest/prebid': 6, 'https://d.socdm.com/adsv/v1': 8, 'https://shb.richaudience.com/hb/': 6}
+===== filmibeat.com 5453 =====
+{'https://px.moatads.com/pixel.gif': 10, 'https://m.dlx.addthis.com/m/moat.xgi': 6, '://s.tribalfusion.com/insights/impression': 7}
+===== bigolive.tv 5456 =====
+{'http://support-json.like.video/json': 11, 'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 6}
+===== shef.ac.uk 5462 =====
+{'https://www.google-analytics.com/j/collect': 7}
+===== magazineluiza.com.br 5461 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 26}
+===== excite.com 5368 =====
+{'https://imp.mt48.net/static': 11, 'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://pagead2.googlesyndication.com/getconfig/sodar': 22}
+===== luc.edu 5486 =====
+{'https://www.facebook.com/tr/': 6}
+===== mysanantonio.com 5479 =====
+{'https://track1.aniview.com/track': 11, 'https://hearst.blueconic.net/DG/DEFAULT/rest/rpc/1074': 9, 'https://www.facebook.com/tr/': 6, 'https://atrack.avplayer.com/track': 9}
+===== madison.com 5447 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://ib.adnxs.com/ut/v3/prebid': 32, 'https://dmx.districtm.io/b/v1': 16, 'https://ap.lijit.com/rtb/bid': 16, 'https://apex.go.sonobi.com/trinity.json': 16, 'https://hb.emxdgt.com/': 16, 'https://hbopenbid.pubmatic.com/translator': 16, 'https://ssc.33across.com/api/v1/hb': 16, 'https://htlb.casalemedia.com/cygnus': 16, 'https://securepubads.g.doubleclick.net/gampad/ads': 16}
+===== skynewsarabia.com 5488 =====
+{'https://pagead2.googlesyndication.com/getconfig/sodar': 21, 'https://securepubads.g.doubleclick.net/pcs/view': 12, 'https://tac.wmgroup.us/analytic/collection': 10}
+===== diamond.jp 5511 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== semana.com 5515 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 7}
+===== paychex.com 5518 =====
+{'https://distillery.wistia.com/x': 6}
+===== coupons.com 5523 =====
+{'https://www.coupons.com/widget/couponscom-ads-widget/': 6}
+===== thanhnien.vn 5517 =====
+{'https://lg1.logging.admicro.vn/advbcms': 11, 'https://lg1.logging.admicro.vn/cpx_cms': 13, 'https://sspapi.admicro.vn/ssp_page_request/pc/v2': 8, 'https://lg1.logging.admicro.vn/ssp': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://tt.onthe.io/': 9}
+===== nbcbayarea.com 5531 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 12, ':///weather/latest.json/': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 22, 'https://start.specless.tech/report/1': 9}
+===== icy-veins.com 5556 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6}
+===== mec.gov.br 5575 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 6, '://i1.sndcdn.com/avatars-000722097868-1n6b9b-t500x500.jpg': 7}
+===== warcraftlogs.com 5564 =====
+{'https://g2.gumgum.com/hbid/imp': 12, 'https://pixel.anyclip.com/vmp.gif': 6, 'https://ssc.33across.com/api/v1/hb': 9, 'https://c2shb.ssp.yahoo.com/bidRequest': 15, 'https://c.pub.network/c': 6, 'https://token.rubiconproject.com/khaos.jpg': 6}
+===== lightinthebox.com 5585 =====
+{'https://www.google-analytics.com/collect': 11}
+===== cleantechnica.com 5613 =====
+{'https://pagead2.googlesyndication.com/getconfig/sodar': 8, 'https://track.sunmedia.tv/': 7, 'https://ib.adnxs.com/ut/v3/prebid': 14, 'https://adx.adform.net/adx/': 8, 'https://hbopenbid.pubmatic.com/translator': 10, 'https://projectagora-d.openx.net/w/1.0/arj': 6, 'https://prg.smartadserver.com/prebid/v1': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8, 'https://projectagora-483829-hdb.adomik.com/': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 8}
+===== ulaval.ca 5633 =====
+{':///': 15}
+===== lge.com 5632 =====
+{'https://www.google-analytics.com/j/collect': 7, 'https://stats.g.doubleclick.net/j/collect': 6}
+===== ferrari.com 5642 =====
+{'https://www.google-analytics.com/collect': 9}
+===== albany.edu 5639 =====
+{'https://www.facebook.com/tr/': 6}
+===== yaplakal.com 5646 =====
+{'https://ads.adfox.ru/220463/event': 7, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== kapook.com 5656 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== freshchat.com 5680 =====
+{'https://src.freshmarketer.com/sr': 11}
+===== ncaa.com 5682 =====
+{'https://ping.chartbeat.net/ping': 6}
+===== calm.com 5732 =====
+{'https://q.stripe.com': 8}
+===== thechive.com 5744 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 6, 'https://ib.adnxs.com/ut/v3/prebid': 17, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 17, 'https://g2.gumgum.com/hbid/imp': 6, 'https://hb.undertone.com/hb': 6, 'https://htlb.casalemedia.com/cygnus': 6, 'https://prebid.a-mo.net/a/c': 6, 'https://grid.bidswitch.net/hbjson': 6, 'https://ap.lijit.com/rtb/bid': 17, 'https://ads.blogherads.com/sk/12/123/1231028/27045/boomerang.json': 13, 'https://as-sec.casalemedia.com/headerstats': 17, 'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 17, 'https://ads.servenobid.com/adreq': 11, 'https://pixel.adsafeprotected.com/mon': 6, 'https://collector.sheknows.com/event': 10, 'https://api.rlcdn.com/api/identity/envelope': 9, 'https://dt.adsafeprotected.com/dt': 29, 'https://pagead2.googlesyndication.com/getconfig/sodar': 8, 'https://ssc-cms.33across.com/ps/': 19, 'https://ups.analytics.yahoo.com/ups/58350/sync': 6, 'https://33across-match.dotomi.com/match/bounce/current': 6}
+===== nmsu.edu 5765 =====
+{'https://embed-fastly.wistia.com/deliveries/af4977240301b7aac987320fe555a89d.webp': 12}
+===== stripes.com 5761 =====
+{'https://capi.connatix.com/rtb/g': 18, 'https://capi.connatix.com/tr/abt': 22, 'https://capi.connatix.com/tr/st': 12, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://track1.aniview.com/track': 16, 'https://events1.avantisvideo.com': 10, 'https://htlb.casalemedia.com/cygnus': 8, 'https://ads.adaptv.advertising.com/rtb/openrtb': 16, 'https://hbopenbid.pubmatic.com/translator': 16, 'https://search.spotxchange.com/openrtb/2.3/dados/287577': 8, 'https://hb.emxdgt.com/': 8}
+===== kicker.de 5779 =====
+{'https://events.apester.com/event': 9, 'https://track1.aniview.com/track': 6}
+===== enterprise.com 5781 =====
+{'https://enterpriseholdingsin.tt.omtrdc.net/rest/v1/delivery': 9}
+===== offcn.com 5775 =====
+{'http://dmp.offcn.com/s/tk.gif': 12}
+===== giantbomb.com 5809 =====
+{'https://ingest.make.rvapps.io/v2/t': 6}
+===== flightaware.com 5828 =====
+{'https://flightaware.com/ajax/vicinity_aircraft.rvt': 11}
+===== pagina12.com.ar 5829 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 11, 'https://www.youtube.com/youtubei/v1/log_event': 24}
+===== streetinsider.com 5839 =====
+{'https://uat5.investingchannel.com/log/report/': 11, 'https://securepubads.g.doubleclick.net/pcs/view': 17, 'https://ad.atdmt.com/i/img': 7, 'https://googleads4.g.doubleclick.net/pcs/view': 6}
+===== monografias.com 5852 =====
+{'wss://msg-0bf8b2a1787b91a17.insurads.com/rt-pub/node/hub': 7}
+===== telegraaf.nl 5854 =====
+{':///graphql': 26}
+===== cnnturk.com 5855 =====
+{'wss://msg-0c80e1df70555c123.insurads.com/rt-pub/node/hub': 6}
+===== crn.com 5890 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10}
+===== publicradio.org 5897 =====
+{'https://www.americanpublicmedia.org/api/census/button-render': 6}
+===== sbis.ru 5904 =====
+{'https://mc.yandex.ru/webvisor/1367479': 7}
+===== fextralife.com 5918 =====
+{'wss://irc-ws.chat.twitch.tv/': 13, 'wss://pubsub-edge.twitch.tv/v1': 43}
+===== newsru.com 5911 =====
+{'https://bidder.criteo.com/cdb': 16, 'https://ads.betweendigital.com/adjson': 16, 'https://securepubads.g.doubleclick.net/gampad/ads': 13, 'https://pagead2.googlesyndication.com/getconfig/sodar': 14, 'https://id5-sync.com/g/v2/546.json': 15, 'https://hbopenbid.pubmatic.com/translator': 15, 'https://prg.smartadserver.com/prebid/v1': 15, 'https://adpone-d.openx.net/w/1.0/arj': 15, 'https://ib.adnxs.com/ut/v3/prebid': 15, 'https://adx.adform.net/adx/': 15, 'https://ap.lijit.com/rtb/bid': 15, 'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 6}
+===== sankei.com 5932 =====
+{'https://pb.ladsp.com/adrequest/prebid': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://y.one.impact-ad.jp/h_bid': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 13}
+===== telstra.com.au 5954 =====
+{'https://telstracorporationlt.tt.omtrdc.net/rest/v1/delivery': 7}
+===== class101.net 5980 =====
+{'https://logx.optimizely.com/v1/events': 20, 'https://api.segment.io/v1/t': 17, 'https://www.facebook.com/tr/': 6, 'https://www.google-analytics.com/collect': 17, 'https://api2.branch.io/v2/event/custom': 12}
+===== chipotle.com 5984 =====
+{'https://capture.trackjs.com/capture': 10}
+===== sportbox.ru 5998 =====
+{'https://an.yandex.ru/jstracer': 6}
+===== i.ua 6005 =====
+{'https://inv-nets-nyc-s1.admixer.net/ev_prebid.aspx': 16}
+===== darkreading.com 6011 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://pagead2.googlesyndication.com/pagead/gen_204': 8}
+===== allthingsd.com 6000 =====
+{'https://px.moatads.com/pixel.gif': 9}
+===== southernliving.com 6018 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://m.dlx.addthis.com/m/moat.xgi': 12}
+===== thelocal.se 6024 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 10, 'https://as-sec.casalemedia.com/cygnus': 6}
+===== levi.com 6025 =====
+{'https://collectors.sumologic.com/receiver/v1/http/ZaVnC4dhaV2wxbTclXZtGug7KHZwhA46yo9TxraOpD-W4mg_WCSGuTCzb8kgnSMBcG2y0XotxKHeTz0QFqzL4U1Th2JLiolbXR7rzr_TCLPOynOw6HFe-g==': 7, 'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 7}
+===== thepointsguy.com 6029 =====
+{'https://beam.thepointsguy.com/v2/t': 12}
+===== aawsat.com 6032 =====
+{'https://tt.onthe.io/': 7}
+===== thoughtcatalog.com 6014 =====
+{'https://prebid.adnxs.com/pbs/v1/openrtb2/auction': 8, 'https://mpbs.rubiconproject.com/openrtb2/auction': 8, 'https://tlx.3lift.com/header/auction': 8, 'https://htlb.casalemedia.com/cygnus': 15, 'https://a.teads.tv/hb/bid-request': 8, 'https://c2shb.ssp.yahoo.com/bidRequest': 12, 'https://ib.adnxs.com/ut/v3/prebid': 16, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 12, 'https://hbopenbid.pubmatic.com/translator': 8, 'https://bidder.criteo.com/cdb': 8, 'https://dmx.districtm.io/b/v1': 8, 'https://hb.undertone.com/hb': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 11, 'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://pagead2.googlesyndication.com/pcs/activeview': 6}
+===== lapatilla.com 6019 =====
+{'https://www.google-analytics.com/collect': 17, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://htlb.casalemedia.com/cygnus': 6, 'https://g2.gumgum.com/hbid/imp': 8, 'https://ap.lijit.com/rtb/bid': 6, 'https://prg.smartadserver.com/prebid/v1': 9, 'https://securepubads.g.doubleclick.net/gampad/ads': 17, 'https://pagead2.googlesyndication.com/getconfig/sodar': 15, 'https://securepubads.g.doubleclick.net/pcs/view': 33}
+===== techacademy.jp 6061 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 8, 'https://www.youtube.com/youtubei/v1/log_event': 8}
+===== gaiaonline.com 6085 =====
+{'https://graphics.gaiaonline.com/images/gaia_bulletin/post_arrow.png': 18}
+===== tuko.co.ke 6089 =====
+{'https://tt.onthe.io/': 13, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://bidder.criteo.com/cdb': 6, 'https://prg.smartadserver.com/prebid/v1': 12, 'https://ib.adnxs.com/ut/v3/prebid': 16, 'https://securepubads.g.doubleclick.net/gampad/ads': 8, 'https://securepubads.g.doubleclick.net/pcs/view': 16, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7, 'https://hbopenbid.pubmatic.com/translator': 11}
+===== empowher.com 6120 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 12}
+===== gazzetta.gr 6062 =====
+{'https://www.facebook.com/tr/': 9}
+===== masterpapers.com 6144 =====
+{'https://www.masterpapers.com/wp-content/special/proxy_order.php': 12}
+===== rollcall.com 6174 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== activecampaign.com 6178 =====
+{'https://www.google-analytics.com/collect': 6}
+===== dw-world.de 6161 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 33, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 33, 'https://adx.adform.net/adx/': 32, 'https://bidder.criteo.com/cdb': 32, 'https://adpone-d.openx.net/w/1.0/arj': 32, 'https://ads.betweendigital.com/adjson': 32, 'https://prg.smartadserver.com/prebid/v1': 32, 'https://hbopenbid.pubmatic.com/translator': 16}
+===== tradeindia.com 6173 =====
+{'https://www.google-analytics.com/collect': 12}
+===== nau.edu 6193 =====
+{'https://www.facebook.com/tr/': 6}
+===== freenet.de 6192 =====
+{'https://lb32.s400.meetrics.net/data': 10, 'https://orbidder.otto.de/bid': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== leafly.com 6205 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== classlink.com 6190 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 6}
+===== nbcwashington.com 6229 =====
+{'https://bidder.criteo.com/cdb': 6, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://m.dlx.addthis.com/m/moat.xgi': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 16}
+===== ottawacitizen.com 6224 =====
+{'https://a.wishabi.com/track.gif': 6}
+===== thefederalist.com 6282 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 7}
+===== chicagobusiness.com 6284 =====
+{'https://px.moatads.com/pixel.gif': 19, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== postandcourier.com 6302 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9, '://sprite_1.png': 9}
+===== eetimes.com 6316 =====
+{'https://www.facebook.com/tr/': 7}
+===== wsbtv.com 6318 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== mts.ru 6320 =====
+{'https://www.google-analytics.com/collect': 8}
+===== beckershospitalreview.com 6332 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 11}
+===== numbeo.com 6338 =====
+{'https://ssc.33across.com/api/v1/hb': 7, 'https://prg.smartadserver.com/prebid/v1': 8, 'https://token.rubiconproject.com/khaos.jpg': 7}
+===== arm.com 6331 =====
+{'https://embed-fastly.wistia.com/deliveries/21c9551c0eed3aa5b8dd54cd66c28203.webp': 13}
+===== ynetnews.com 6327 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== cadenaser.com 6372 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 6}
+===== walla.co.il 6398 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://events.browsiprod.com/events/demand': 14}
+===== food52.com 6400 =====
+{'https://c.pub.network/c': 7, 'https://p.ad.gt/api/v1/otp/dfp': 8}
+===== tiu.ru 6406 =====
+{'https://www.google-analytics.com/collect': 15}
+===== nbcdfw.com 6416 =====
+{':///weather/latest.json/': 7, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://bidder.criteo.com/cdb': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 16}
+===== onepeloton.com 6423 =====
+{'https://logx.optimizely.com/v1/events': 33, 'https://api.segment.io/v1/t': 11}
+===== penguin.co.uk 6467 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 17, 'https://www.youtube.com/youtubei/v1/log_event': 18}
+===== arthritis.org 6491 =====
+{'https://www.facebook.com/tr/': 6}
+===== heraldscotland.com 6478 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://prg.smartadserver.com/prebid/v1': 9, 'https://c2shb.ssp.yahoo.com/bidRequest': 7}
+===== cafemom.com 6495 =====
+{'https://cafemomdfpnew429420001451.s.moatpixel.com/pixel.gif': 10}
+===== bithumb.com 6498 =====
+{'https://perf.bithumb.com/global.json': 11}
+===== slashfilm.com 6499 =====
+{'https://tlx.3lift.com/header/auction': 6, 'https://htlb.casalemedia.com/cygnus': 6, 'https://grid.bidswitch.net/hbjson': 6, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 19, 'https://g2.gumgum.com/hbid/imp': 17, 'https://ap.lijit.com/rtb/bid': 6, 'https://hbopenbid.pubmatic.com/translator': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 16, 'https://ssc.33across.com/api/v1/hb': 10, 'https://web.hb.ad.cpe.dotomi.com/cvx/client/hb/ortb/25': 6, 'https://ads.yieldmo.com/exchange/prebid': 6, 'https://freestar-d.openx.net/w/1.0/arj': 6, 'https://bidder.criteo.com/cdb': 6, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 10, 'https://dmx.districtm.io/b/v1': 6, 'https://c.pub.network/c': 10, 'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== tmcnet.com 6511 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== bose.com 6512 =====
+{'https://ing-district.clicktale.net/ctn_v2/wr/': 8}
+===== michelin.com 6541 =====
+{'https://www.michelin.com/wp-admin/admin-ajax.php': 8}
+===== rstyle.me 6549 =====
+{'https://track.hubspot.com/__ptq.gif': 10}
+===== biggerpockets.com 6554 =====
+{'https://segment-api.biggerpockets.com/v1/t': 7, 'https://stats.g.doubleclick.net/__utm.gif': 7, 'https://www.facebook.com/tr/': 6, 'https://track.hubspot.com/__ptq.gif': 8}
+===== indiatvnews.com 6544 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 21, 'https://pagead2.googlesyndication.com/pcs/activeview': 6, 'https://pagead2.googlesyndication.com/getconfig/sodar': 10, 'https://pubads.g.doubleclick.net/gampad/ads': 26, 'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://la-wf.taboola.com/VideoBidRequestHandlerServlet': 11, 'https://la-vid-events.taboola.com/OpportunityServlet': 9, 'https://ads.stickyadstv.com/user-matching': 6, 'https://csi.gstatic.com/csi': 10}
+===== fark.com 6582 =====
+{'https://atrack.avplayer.com/track': 7, 'https://track1.aniview.com/track': 9}
+===== wccftech.com 6589 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6}
+===== cumhuriyet.com.tr 6632 =====
+{'https://t.lkqd.net/t': 13}
+===== ca800.com 6615 =====
+{'http://ca800.com/common/userpush.aspx': 9}
+===== index.hr 6662 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 11, 'https://prg.smartadserver.com/prebid/v1': 9}
+===== irecommend.ru 6636 =====
+{'https://sscors.w2.r-99.com/superstat/collect': 23}
+===== pjmedia.com 6663 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 10}
+===== peninsuladailynews.com 6655 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 13, 'https://securepubads.g.doubleclick.net/pcs/view': 12}
+===== elespectador.com 6666 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 12, 'https://t.lkqd.net/t': 51, 'https://v.lkqd.net/ad': 6, 'wss://msg-0ad21c9611bc9ab82.insurads.com/rt-pub/node/hub': 10, 'https://ads.adaptv.advertising.com/rtb/openrtb': 6}
+===== aaas.org 6707 =====
+{'https://www.facebook.com/tr/': 6}
+===== taiwannews.com.tw 6693 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 15, 'https://www.youtube.com/youtubei/v1/log_event': 15, ':///generate_204': 11}
+===== dolcegabbana.com 6716 =====
+{'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 6}
+===== getepic.com 6714 =====
+{'https://www.facebook.com/tr/': 6}
+===== theinformation.com 6694 =====
+{'https://q.stripe.com': 17, 'https://www.google-analytics.com/collect': 11, 'https://play.google.com/log': 7}
+===== videohive.net 6729 =====
+{'https://www.google-analytics.com/collect': 11}
+===== theprint.in 6720 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 7, 'https://www.youtube.com/youtubei/v1/log_event': 11}
+===== ole.com.ar 6733 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 16}
+===== washingtonian.com 6744 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://track1.aniview.com/track': 9, 'https://ads.adaptv.advertising.com/rtb/openrtb': 8}
+===== justjared.com 6722 =====
+{'https://track1.aniview.com/track': 14, 'https://trk.vidible.tv/trk/impression.gif': 6, 'https://aktrack.pubmatic.com/track': 12, 'https://trk.vidible.tv/trk/display.gif': 6, 'https://trk.vidible.tv/trk/ad-request.gif': 6, 'https://trk.vidible.tv/trk/ad-engine-request.gif': 6, 'https://insticator.technoratimedia.com/openrtb/bids/insticator': 6, 'https://prebid-server.rubiconproject.com/openrtb2/auction': 15, 'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://htlb.casalemedia.com/cygnus': 9, 'https://hbopenbid.pubmatic.com/translator': 9, 'https://prg.smartadserver.com/prebid/v1': 6}
+===== simplisafe.com 6773 =====
+{'https://logx.optimizely.com/v1/events': 9}
+===== mediapart.fr 6781 =====
+{'://i1.sndcdn.com/artworks-zp5i6hLySSHtMJJI-p75yyQ-t500x500.jpg': 7}
+===== pajak.go.id 6785 =====
+{'https://www.youtube.com/youtubei/v1/log_event': 7}
+===== mg.co.za 6811 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== royalgazette.com 6780 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== movistarplus.es 6791 =====
+{'https://status.scx.col.movistar.es/scx/monitor/status/new': 8}
+===== mako.co.il 6824 =====
+{'https://www.google-analytics.com/collect': 10, 'https://stats.g.doubleclick.net/j/collect': 7}
+===== saisoncard.co.jp 6762 =====
+{'https://www.google-analytics.com/j/collect': 7, 'https://tr.line.me/tag.gif': 6}
+===== freshworks.com 6836 =====
+{'https://src.freshmarketer.com/sr': 7}
+===== iqilu.com 6814 =====
+{'http://g4.iqilu.com/phpad.stat/adlog.php': 15}
+===== nbcphiladelphia.com 6859 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 19, 'https://bidder.criteo.com/cdb': 6, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 16}
+===== grademiners.com 6860 =====
+{'https://grademiners.com/wp-content/special/proxy_order.php': 12}
+===== riafan.ru 6873 =====
+{'https://log.strm.yandex.ru/log': 6}
+===== beforeitsnews.com 6876 =====
+{'wss://widgetdata.tradingview.com/socket.io/websocket': 6}
+===== mcall.com 6899 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://as-sec.casalemedia.com/headerstats': 7}
+===== yonhapnews.co.kr 6940 =====
+{'https://www.yna.co.kr/': 19}
+===== zacks.com 6944 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 7}
+===== connatix.com 6962 =====
+{'https://capi.connatix.com/tr/st': 6}
+===== bnnbloomberg.ca 6965 =====
+{'https://www.facebook.com/tr/': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== diynetwork.com 6967 =====
+{'https://kargodfpnew803390365855.s.moatpixel.com/pixel.gif': 6}
+===== earthsky.org 6999 =====
+{'https://prebid.adnxs.com/pbs/v1/openrtb2/auction': 7, 'https://mpbs.rubiconproject.com/openrtb2/auction': 7, 'https://tlx.3lift.com/header/auction': 7, 'https://htlb.casalemedia.com/cygnus': 11, 'https://a.teads.tv/hb/bid-request': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 10, 'https://ib.adnxs.com/ut/v3/prebid': 14, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 10, 'https://hbopenbid.pubmatic.com/translator': 7, 'https://bidder.criteo.com/cdb': 7, 'https://cafemedia-d.openx.net/w/1.0/arj': 7, 'https://dmx.districtm.io/b/v1': 7}
+===== edelman.com 7008 =====
+{'https://fresnel.vimeocdn.com/add/player-stats': 18}
+===== philstar.com 7005 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://prg.smartadserver.com/prebid/v1': 6, 'https://ice.360yield.com/hb': 6, 'https://exponential54894892.s.moatpixel.com/pixel.gif': 9}
+===== richmond.com 7010 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== thairath.co.th 7028 =====
+{'https://www.facebook.com/tr/': 8}
+===== bloomberg.co.jp 7032 =====
+{'https://px.moatads.com/pixel.gif': 9, 'https://bloombergdfpcw4670778881.s.moatpixel.com/pixel.gif': 6}
+===== upgrad.com 7047 =====
+{'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 12}
+===== advfn.com 7060 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== thecrimson.com 7071 =====
+{'https://www.google-analytics.com/collect': 8}
+===== novayagazeta.ru 7090 =====
+{'https://tt.onthe.io/': 7}
+===== klook.com 7104 =====
+{'https://www.google-analytics.com/collect': 7, 'data://image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAADUExURenp6VcjxIwAAAAKSURBVAjXY2AAAAACAAHiIbwzAAAAAElFTkSuQmCC': 7}
+===== prospect.org 7133 =====
+{'https://apex.go.sonobi.com/trinity.json': 11, 'https://served-by.pixfuture.com/www/delivery/hb_v2.php': 9, 'https://ssc.33across.com/api/v1/hb': 9, 'https://pixfuture2-d.openx.net/w/1.0/arj': 9, 'https://prg.smartadserver.com/prebid/v1': 18, 'https://pixfuture.technoratimedia.com/openrtb/bids/pixfuture': 9, 'https://dmx.districtm.io/b/v1': 9, 'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://c2shb.ssp.yahoo.com/bidRequest': 9, 'https://hbopenbid.pubmatic.com/translator': 9, 'https://served-by.pixfuture.com/www/headerbid/library/tracking/tracking.php': 9, 'https://g2.gumgum.com/hbid/imp': 7}
+===== etnet.com.hk 7147 =====
+{'https://r4---sn-a5mekney.googlevideo.com/videoplayback': 8, 'https://r3---sn-a5meknek.googlevideo.com/videoplayback': 9}
+===== tucson.com 7156 =====
+{'https://ssc-cms.33across.com/ps/': 7}
+===== nwf.org 7158 =====
+{'https://www.facebook.com/tr/': 7}
+===== thenewslens.com 7164 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== avgle.com 7149 =====
+{'https://ps.eyeota.net/pixel': 9}
+===== easybib.com 7163 =====
+{'https://c2shb.ssp.yahoo.com/bidRequest': 9, 'https://analytics.chegg.com/rio-service-wt/rest/rio-events/batch': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 13}
+===== perezhilton.com 7169 =====
+{'https://atrack.avplayer.com/track': 8, 'https://track1.aniview.com/track': 10, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 11, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 7}
+===== pluto.tv 7194 =====
+{'wss://interactive-sta.firebaseio.com/.ws': 7}
+===== biccamera.com 7175 =====
+{'https://www.google-analytics.com/collect': 6}
+===== audiojungle.net 7224 =====
+{'https://www.google-analytics.com/collect': 11}
+===== theadvocate.com 7218 =====
+{'https://theadvocate.blueconic.net/DG/DEFAULT/rest/rpc/328': 11, 'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://includemodal.com/static/log.gif': 10, 'https://securepubads.g.doubleclick.net/pcs/view': 19, '://compass-events.deliverimp.com/report': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 32, 'https://ap.lijit.com/rtb/bid': 21, 'https://ib.adnxs.com/ut/v3/prebid': 65, 'https://htlb.casalemedia.com/cygnus': 22, 'https://c2shb.ssp.yahoo.com/bidRequest': 11, 'https://prg.smartadserver.com/prebid/v1': 11, 'https://hbopenbid.pubmatic.com/translator': 22, 'https://os4m-d.openx.net/w/1.0/arj': 11, 'https://apex.go.sonobi.com/trinity.json': 11}
+===== nimo.tv 7240 =====
+{'wss://wsapi.master.live/': 12, 'https://statwup.nimo.tv/': 7}
+===== larepublica.pe 7262 =====
+{':///pf/api/v3/content/fetch/articulo-autor': 6}
+===== qy.net 7287 =====
+{'://msg.qy.net/b': 8, '://msg.qy.net/cp2.gif': 34}
+===== affirm.com 7237 =====
+{'https://tracker.affirm.com/collect': 25}
+===== sony.jp 7313 =====
+{'https://www.facebook.com/tr/': 6}
+===== ulifestyle.com.hk 7339 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== macworld.co.uk 7352 =====
+{'https://tt.onthe.io/': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== thisoldhouse.com 7346 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://thisoldhouse-tagan.adlightning.com/error': 6}
+===== worldoftanks.ru 7355 =====
+{'https://cds.wargaming.net/api/content-request/': 7}
+===== unext.jp 7360 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== elfinanciero.com.mx 7375 =====
+{':///pf/api/v3/content/fetch/query-feed': 13, 'https://securepubads.g.doubleclick.net/gampad/ads': 9}
+===== toysrus.com 7356 =====
+{'https://www.facebook.com/tr/': 6}
+===== balkanweb.com 7379 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 15, 'https://www.youtube.com/youtubei/v1/log_event': 6}
+===== tec.mx 7367 =====
+{'https://www.facebook.com/tr/': 6, 'https://googleads.g.doubleclick.net/pagead/id': 7, 'https://www.youtube.com/youtubei/v1/log_event': 10}
+===== logmeininc.com 7403 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/9c4c71c506174f5e6825a8ab258832b2.webp': 6}
+===== kdvr.com 7406 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== wgntv.com 7412 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== matamata.com 7431 =====
+{'https://csi.gstatic.com/csi': 6}
+===== soccerway.com 7440 =====
+{'wss://msgws-useast1-s0002.webspectator.com/broadcast/366/pi8sx58c/websocket': 8}
+===== premier.one 7451 =====
+{'data://image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOwAAAGQCAYAAAAdnf+YAAAABmJLR0QA/wD/AP+gvaeTAAALbklEQVR42u3YMQEAIADDMMC/52GjRyKhZ++2AwAAAAA0PAkAAAAAoMOwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQgw7AAAAAAgx7AAAAAAgxLADAAAAgBDDDgAAAABCDDsAAAAACDHsAAAAACDEsAMAAACAEMMOAAAAAEIMOwAAAAAIMewAAAAAIMSwAwAAAIAQww4AAAAAQj54awYdz2QDJQAAAABJRU5ErkJggg==': 15}
+===== denofgeek.com 7467 =====
+{'https://hbopenbid.pubmatic.com/translator': 28, 'https://capi.connatix.com/tr/abt': 9}
+===== comingsoon.net 7462 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 17, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 24, 'https://ads.betweendigital.com/adjson': 16, 'https://adpone-d.openx.net/w/1.0/arj': 16, 'https://hbopenbid.pubmatic.com/translator': 16, 'https://prg.smartadserver.com/prebid/v1': 16, 'https://bidder.criteo.com/cdb': 16, 'https://ap.lijit.com/rtb/bid': 16, 'https://adx.adform.net/adx/': 16}
+===== panorama.com.al 7473 =====
+{'https://bidder.criteo.com/cdb': 8, 'https://ap.lijit.com/rtb/bid': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 48, 'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://s333.adxpremium.services/graphql': 8, 'https://bidder.criteo.com/csm/events': 6, 'http://la-wf.taboola.com/VideoBidRequestHandlerServlet': 9, 'http://la-vid-events.taboola.com/OpportunityServlet': 6, 'http://vidanalytics.taboola.com/putes/player_waterfall': 14, 'http://vidanalytics.taboola.com/putes': 30, 'https://ads.stickyadstv.com/user-matching': 8}
+===== gizmodo.com.au 7502 =====
+{'https://px.moatads.com/pixel.gif': 6}
+===== nbcsandiego.com 7498 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 13, ':///weather/latest.json/': 7, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 26, 'https://c.statcounter.com/t.php': 10}
+===== inbox.lv 7513 =====
+{'https://b.adbox.lv/stats/': 6}
+===== breakflip.com 7530 =====
+{'https://prg.smartadserver.com/prebid/v1': 7, 'https://shb.richaudience.com/hb/': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7, 'https://ice.360yield.com/hb': 7, 'https://prebid.smilewanted.com/': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== panasonic.jp 7547 =====
+{'https://www.facebook.com/tr/': 11}
+===== todayonline.com 7551 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== austinchronicle.com 7563 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== pravda.com.ua 7592 =====
+{'https://tt.onthe.io/': 8}
+===== nea.org 7601 =====
+{'https://www.google-analytics.com/collect': 7}
+===== tulsaworld.com 7615 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== musescore.com 7630 =====
+{'://track.ultimate-guitar.com/ug/hb_bid_request.trc': 12}
+===== mun.ca 7654 =====
+{'https://www.facebook.com/tr/': 6}
+===== astrazeneca.com 7700 =====
+{'https://www.google-analytics.com/collect': 13}
+===== walmart.com.mx 7652 =====
+{'https://www.google-analytics.com/collect': 17, 'https://stats.g.doubleclick.net/j/collect': 19}
+===== truecar.com 7716 =====
+{'https://www.facebook.com/tr/': 6}
+===== wimp.com 7730 =====
+{'://i.jsrdn.com/i/1.gif': 6}
+===== basalam.com 7738 =====
+{'https://www.google-analytics.com/collect': 6}
+===== eventbrite.com.au 7750 =====
+{'https://www.google-analytics.com/collect': 13}
+===== zum.com 7739 =====
+{'://estat.zum.com/at.gif': 7}
+===== gadgetsnow.com 7804 =====
+{'https://hb.emxdgt.com/': 7, 'https://hb.undertone.com/hb': 7, 'https://bidder.criteo.com/cdb': 7, 'https://as-sec.casalemedia.com/headerstats': 7, 'https://bidder.criteo.com/csm/events': 6}
+===== brisbanetimes.com.au 7806 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== jaxa.jp 7743 =====
+{'https://sharaku.eorc.jaxa.jp/cgi-bin/trmm/GSMaP_NOW/tilemap/tile_rain.py': 6}
+===== redstate.com 7821 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 9}
+===== metrotimes.com 7834 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== bovada.lv 7857 =====
+{':///assets/images/thumbnail.png': 8}
+===== guardian.ng 7870 =====
+{'https://served-by.pixfuture.com/www/delivery/hb_v2.php': 15, 'https://tt.onthe.io/': 16, 'https://hbopenbid.pubmatic.com/translator': 15, 'https://bid.contextweb.com/header/ortb': 15, 'https://ap.lijit.com/rtb/bid': 15, 'https://ib.adnxs.com/ut/v3/prebid': 15, 'https://dmx.districtm.io/b/v1': 15, 'https://pixfuture2-d.openx.net/w/1.0/arj': 15, 'https://apex.go.sonobi.com/trinity.json': 15, 'https://ssc.33across.com/api/v1/hb': 15, 'https://served-by.pixfuture.com/www/headerbid/library/tracking/tracking.php': 15, 'wss://speedtest.dailymotion.com/speedtest': 14, 'https://pagead2.googlesyndication.com/getconfig/sodar': 14}
+===== israelnationalnews.com 7909 =====
+{'https://btlr.sharethrough.com/WYu2BXv1/v1': 7, 'https://ssc.33across.com/api/v1/hb': 7}
+===== santander.com.ar 7911 =====
+{'https://collect.tealiumiq.com/santander/ar-main/2/i.gif': 10, 'https://www.google-analytics.com/collect': 12}
+===== chotot.com 7927 =====
+{'https://r1---sn-a5meknzr.googlevideo.com/videoplayback': 6, 'https://static.chotot.com/storage/chotot-icons/svg/user.svg': 6}
+===== fox8.com 7939 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== narrative.io 7949 =====
+{'https://track.hubspot.com/__ptq.gif': 10}
+===== sae.org 7964 =====
+{'https://www.facebook.com/tr/': 6}
+===== thelocal.de 7954 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6}
+===== tagesanzeiger.ch 7969 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 10}
+===== gardeningknowhow.com 7984 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://c.pub.network/c': 9}
+===== livenation.com 8027 =====
+{'https://r3---sn-a5meknzl.googlevideo.com/videoplayback': 16}
+===== ricardo.ch 8033 =====
+{'https://www.google-analytics.com/collect': 15}
+===== koreastardaily.com 8057 =====
+{':///common/cavalry_endpoint.php': 16}
+===== jigsawplanet.com 8078 =====
+{':///img/shapes/10.svg': 20}
+===== kxan.com 8096 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== clicktale.net 8063 =====
+{'https://embedwistia-a.akamaihd.net/deliveries/61222c2b42c628fa4c590d6320fef71a.webp': 7}
+===== aucfan.com 8132 =====
+{'https://www.google-analytics.com/j/collect': 7, 'https://stats.g.doubleclick.net/j/collect': 6}
+===== pilotonline.com 8121 =====
+{'https://hbopenbid.pubmatic.com/translator': 9, 'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://as-sec.casalemedia.com/headerstats': 8, 'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 22}
+===== barstoolsports.com 8144 =====
+{'https://trends.revcontent.com/api/demand/': 6, 'https://trends.revcontent.com/api/delivery/': 6, '://cdn.revcontent.com/assets/img/rc-logo.png': 6, 'https://union.barstoolsports.com/v2/stories/latest': 8, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== goodreturns.in 8156 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== advocate.com 8178 =====
+{'https://sb.scorecardresearch.com/p': 18, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== jmty.jp 8184 =====
+{'https://ad.as.amanad.adtdp.com/v2/prebid': 7, 'https://g2.gumgum.com/hbid/imp': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://y.one.impact-ad.jp/h_bid': 7, 'https://pb.ladsp.com/adrequest/prebid': 7, 'https://d.socdm.com/adsv/v1': 7, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== tass.com 8176 =====
+{'https://tt.onthe.io/': 52}
+===== worldpopulationreview.com 8135 =====
+{'https://atrack.avplayer.com/track': 11, 'https://track1.aniview.com/track': 10, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://ib.adnxs.com/ut/v3/prebid': 10, 'https://ssc.33across.com/api/v1/hb': 6, 'https://hbopenbid.pubmatic.com/translator': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 13, 'https://g2.gumgum.com/hbid/imp': 10, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 13, 'https://c.pub.network/c': 12, 'https://securepubads.g.doubleclick.net/gampad/ads': 10}
+===== telangana.gov.in 8191 =====
+{'https://telangana.gov.in/_vti_bin/Lists.asmx': 15}
+===== royalessays.co.uk 8211 =====
+{'https://royalessays.co.uk/wp-content/special/proxy_order.php': 6}
+===== alice.it 8246 =====
+{'https://pixel.mathtag.com/misc/img': 8}
+===== kiro7.com 8289 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== thequint.com 8293 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 10, 'https://pagead2.googlesyndication.com/getconfig/sodar': 6, 'https://pagead2.googlesyndication.com/pcs/activeview': 9}
+===== hsn.com 8307 =====
+{'https://www.google-analytics.com/collect': 6}
+===== ascii.jp 8309 =====
+{'https://r1---sn-a5mlrn7l.googlevideo.com/videoplayback': 14, '://www.youtube.com/api/stats/qoe': 6}
+===== freebeacon.com 8320 =====
+{'https://btlr.sharethrough.com/WYu2BXv1/v1': 10, 'https://ssc.33across.com/api/v1/hb': 10}
+===== coach.com 8325 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== pbebank.com 8331 =====
+{'https://www.pbebank.com/CMSPages/GetFile.aspx': 6}
+===== famitsu.com 8335 =====
+{'https://www.google-analytics.com/collect': 11}
+===== destructoid.com 8313 =====
+{'https://prebid.media.net/rtb/prebid': 6, 'https://tlx.3lift.com/header/auction': 7, 'https://enthusiast-gaming-d.openx.net/w/1.0/arj': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 13, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 13, 'https://hbopenbid.pubmatic.com/translator': 7, 'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://htlb.casalemedia.com/cygnus': 6, 'https://g2.gumgum.com/hbid/imp': 13, 'https://e.serverbid.com/api/v2': 6}
+===== gymshark.com 8343 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 12}
+===== time.is 8347 =====
+{'https://g2.gumgum.com/hbid/imp': 6, 'https://c.pub.network/c': 9}
+===== walkerland.com.tw 8372 =====
+{'://www.googletagmanager.com/a': 6}
+===== laprensagrafica.com 8377 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 11, 'https://pagead2.googlesyndication.com/getconfig/sodar': 6}
+===== afisha.ru 8403 =====
+{'https://ssp.rambler.ru/context.jsp': 7, 'https://ssp.rambler.ru/blockstat_post': 7, 'https://mc.yandex.ru/webvisor/27508533': 6}
+===== 3dnews.ru 8431 =====
+{'https://mc.yandex.ru/webvisor/434756': 8}
+===== yangkeduo.com 8453 =====
+{'https://th.yangkeduo.com/t.gif': 19}
+===== itar-tass.com 8405 =====
+{'https://tt.onthe.io/': 14, 'https://jstracer.yandex.ru/jstracer': 10, 'https://an.yandex.ru/tracking/WECejI_zO080pGO0r0i00000TWKvvWK00W4nOwgTO000000uukrUW07-xE01Y064kypwLf01XAMSeic0W802c064fPoYIQ01XAAe0OIYdA99i06I3BW1elIpl23O0RhJfvK1u0K-e0QKoWEe1fJA0ya662w18KxKOcQf1wMW84OYcT0Zq820W802W0e9-lWAlwMW002Cfoh9FS850F0B2U0DWeA10RWF2iWGeA3O5Bo9zOG6u1G1s1N1YlRieu-y_6E15z0O3_WOW1a802u5xomw89ghp04a0yth41nyQGmpvCec5000~1': 6}
+===== passeidireto.com 8460 =====
+{'https://www.google-analytics.com/collect': 6}
+===== cults3d.com 8474 =====
+{'https://www.facebook.com/tr/': 6}
+===== eleconomista.com.mx 8472 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 13}
+===== buyessay.net 8477 =====
+{'https://buyessay.net/wp-content/special/proxy_order.php': 7}
+===== wenxuecity.com 8486 =====
+{'https://log.outbrainimg.com/loggerServices/widgetGlobalEvent': 8}
+===== stylecaster.com 8475 =====
+{'https://as-sec.casalemedia.com/headerstats': 11, 'https://ads.blogherads.com/bh/1/1/1/2208790/boomerang.json': 7, 'https://securepubads.g.doubleclick.net/pcs/view': 14, 'https://ap.lijit.com/rtb/bid': 13, 'https://ib.adnxs.com/ut/v3/prebid': 12, 'https://htlb.casalemedia.com/cygnus': 13, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 13, 'https://lockerdome.com/ladbid/prebid': 8, 'https://ads.servenobid.com/adreq': 8, 'https://collector.sheknows.com/event': 6, 'https://api.rlcdn.com/api/identity/envelope': 6, 'https://ssc-cms.33across.com/ps/': 6, 'https://dt.adsafeprotected.com/dt': 6}
+===== telus.com 8490 =====
+{'https://tagmonitor-sncr33bbua-nn.a.run.app/capture': 8, 'https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php': 12}
+===== retaildive.com 8516 =====
+{'https://www.google-analytics.com/collect': 15, 'https://www.facebook.com/tr/': 6}
+===== bastillepost.com 8522 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== 1001fonts.com 8552 =====
+{'https://www.google-analytics.com/collect': 14}
+===== anandabazar.com 8565 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://la-wf.taboola.com/VideoBidRequestHandlerServlet': 6, 'https://px.moatads.com/pixel.gif': 12, 'https://bidder.criteo.com/cdb': 8}
+===== greentechmedia.com 8588 =====
+{'https://woodmackenzie.blueconic.net/DG/DEFAULT/rest/rpc/908': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 9}
+===== abqjournal.com 8574 =====
+{'https://www.google-analytics.com/collect': 8, 'https://securepubads.g.doubleclick.net/pcs/view': 14, 'https://apex.go.sonobi.com/trinity.json': 8, 'https://ap.lijit.com/rtb/bid': 10, 'https://securepubads.g.doubleclick.net/gampad/ads': 10, 'https://pagead2.googlesyndication.com/getconfig/sodar': 12, 'https://hbopenbid.pubmatic.com/translator': 6, 'https://ib.adnxs.com/ut/v3/prebid': 6}
+===== audacy.com 8581 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 11}
+===== vimeopro.com 8603 =====
+{'https://fresnel.vimeocdn.com/add/player-stats': 17}
+===== kennedy-center.org 8605 =====
+{'https://www.google-analytics.com/collect': 10, 'https://r4---sn-a5meknzk.googlevideo.com/videoplayback': 6}
+===== turkmenistanhabar.com 8615 =====
+{'https://turkmenistanhabar.com/wp-admin/admin-ajax.php': 6}
+===== libretexts.org 8626 =====
+{'https://maps.googleapis.com/maps/vt': 6}
+===== daily.co.jp 8637 =====
+{'https://y.one.impact-ad.jp/h_bid': 7, 'https://s-rtb-pb.send.microad.jp/prebid': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 6, 'https://g2.gumgum.com/hbid/imp': 7, 'https://d.socdm.com/adsv/v1': 10, 'https://pb.ladsp.com/adrequest/prebid': 6}
+===== slu.edu 8655 =====
+{'https://www.facebook.com/tr/': 6}
+===== robbreport.com 8664 =====
+{'https://r1---sn-a5meknee.googlevideo.com/videoplayback': 15}
+===== rpp.pe 8679 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 31, 'https://bidder.criteo.com/cdb': 31, 'https://ib.adnxs.com/ut/v3/prebid': 31, 'https://securepubads.g.doubleclick.net/gampad/ads': 10, 'https://securepubads.g.doubleclick.net/pcs/view': 6, 'https://adx.adform.net/adx/': 30, 'https://ap.lijit.com/rtb/bid': 30, 'https://adpone-d.openx.net/w/1.0/arj': 30, 'https://prg.smartadserver.com/prebid/v1': 30, 'https://ads.betweendigital.com/adjson': 30, 'https://i.connectad.io/api/v2': 30}
+===== giga.de 8702 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 7}
+===== goldprice.org 8707 =====
+{'wss://widgetdata.tradingview.com/socket.io/websocket': 24}
+===== utsa.edu 8718 =====
+{'https://www.facebook.com/tr/': 8}
+===== syri.net 8722 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8}
+===== telegraphindia.com 8726 =====
+{'://s.tribalfusion.com/insights/impression': 6}
+===== bigmir.net 8734 =====
+{'https://inv-nets-nyc-s1.admixer.net/ev_prebid.aspx': 16}
+===== soha.vn 8736 =====
+{'https://lg1.logging.admicro.vn/advbcms': 16, 'https://lg1.logging.admicro.vn/cpx_cms': 14, 'https://lg1.logging.admicro.vn/ssp': 7}
+===== liverpoolfc.com 8748 =====
+{'https://csi.gstatic.com/csi': 11, 'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== e1.ru 8760 =====
+{'https://px.adhigh.net/rtb/direct_banner': 28, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 28, 'https://tt.onthe.io/': 11, 'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 6}
+===== beeline.ru 8777 =====
+{'https://www.google-analytics.com/collect': 15, 'https://play.google.com/log': 9}
+===== centrum.cz 8784 =====
+{'https://trackad.cz/events.php': 6, 'https://adx.adform.net/adx/': 8}
+===== marketingweek.com 8799 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 10, 'https://cm.g.doubleclick.net/pixel': 8}
+===== ksu.edu 8822 =====
+{'https://www.google-analytics.com/collect': 12}
+===== phillymag.com 8836 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 16, 'https://securepubads.g.doubleclick.net/pcs/view': 11}
+===== playbill.com 8834 =====
+{'https://hblg.media.net/log': 12, 'https://securepubads.g.doubleclick.net/gampad/ads': 7, 'https://x.bidswitch.net/sync': 6, '://compass-events.deliverimp.com/report': 14, 'https://apex.go.sonobi.com/trinity.json': 6, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 6, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://htlb.casalemedia.com/cygnus': 6}
+===== easywp.com 8843 =====
+{'https://r1---sn-a5meknzr.googlevideo.com/videoplayback': 7}
+===== knowbe4.com 8844 =====
+{'https://track.hubspot.com/__ptq.gif': 10}
+===== patient.info 8852 =====
+{'https://hbopenbid.pubmatic.com/translator': 19, '://compass-events.deliverimp.com/report': 24, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 18, 'https://htlb.casalemedia.com/cygnus': 18, 'https://apex.go.sonobi.com/trinity.json': 18, 'https://ap.lijit.com/rtb/bid': 18, 'https://ib.adnxs.com/ut/v3/prebid': 36, 'https://brightcom-d.openx.net/w/1.0/arj': 18}
+===== daytondailynews.com 8910 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://includemodal.com/service/imp/2a1556f7-d788-4b8b-943a-dd77f5f0d472/': 6}
+===== sundance.org 8915 =====
+{'https://www.facebook.com/tr/': 6}
+===== marketingdive.com 8917 =====
+{'https://www.google-analytics.com/collect': 15}
+===== n4g.com 8908 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 15, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 22, 'https://apex.go.sonobi.com/trinity.json': 6, 'https://dmx.districtm.io/b/v1': 7, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 20, 'https://g2.gumgum.com/hbid/imp': 20, 'https://ssc.33across.com/api/v1/hb': 20, 'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== csfd.cz 8920 =====
+{'https://adx.adform.net/adx/': 49, 'https://prg.smartadserver.com/prebid/v1': 23, 'https://i.connectad.io/api/v2': 22, 'https://ib.adnxs.com/ut/v3/prebid': 44, 'https://openbid.pubmatic.com/translator': 23, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 23, 'https://hb.adscale.de/dsh': 22, 'https://bidder.criteo.com/cdb': 21}
+===== gta5-mods.com 8907 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 16, 'https://g2.gumgum.com/hbid/imp': 19, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 33, 'https://c2shb.ssp.yahoo.com/bidRequest': 19, 'https://htlb.casalemedia.com/cygnus': 16, 'https://hbopenbid.pubmatic.com/translator': 16, 'https://tlx.3lift.com/header/auction': 16, 'https://enthusiast-gaming-d.openx.net/w/1.0/arj': 16, 'https://securepubads.g.doubleclick.net/gampad/ads': 15}
+===== toledoblade.com 8938 =====
+{'https://www.google-analytics.com/j/collect': 6, 'https://stats.g.doubleclick.net/j/collect': 7, 'https://securepubads.g.doubleclick.net/gampad/ads': 14, 'https://securepubads.g.doubleclick.net/pcs/view': 9}
+===== modernhealthcare.com 8945 =====
+{'https://cm.g.doubleclick.net/pixel': 6}
+===== garantibbva.com.tr 8960 =====
+{'https://log.api.useinsider.com/v2/collect': 6}
+===== katu.com 8967 =====
+{'https://ssc.33across.com/api/v1/hb': 7, 'https://c2shb.ssp.yahoo.com/bidRequest': 7}
+===== uncommongoods.com 9021 =====
+{'https://www.google-analytics.com/collect': 6}
+===== gazetaexpress.com 8990 =====
+{'https://hbopenbid.pubmatic.com/translator': 13, 'https://prg.smartadserver.com/prebid/v1': 11, 'https://ib.adnxs.com/ut/v3/prebid': 13, 'https://adx.adform.net/adx/': 13, 'https://tlx.3lift.com/header/auction': 13, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 13, 'https://projectagora-d.openx.net/w/1.0/arj': 13, 'https://htlb.casalemedia.com/cygnus': 13, 'https://bidder.criteo.com/cdb': 13, 'https://projectagora-483829-hdb.adomik.com/': 13}
+===== techbang.com 9026 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8, 'https://www.youtube.com/youtubei/v1/log_event': 8}
+===== shu.edu 9027 =====
+{'https://event-logger.tagboard.com/event/card': 13}
+===== leetcode-cn.com 9051 =====
+{'https://api.growingio.com/custom/a2873925c34ecbd2/web/cstm': 8}
+===== contentful.com 9060 =====
+{'https://embed-fastly.wistia.com/deliveries/1874004cde3a0dd6c884e24f479f488f9d8d5769.webp': 6}
+===== nbcmiami.com 9088 =====
+{'https://bidder.criteo.com/cdb': 6, 'https://as-sec.casalemedia.com/headerstats': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 9, 'https://nbcudisplay.s.moatpixel.com/pixel.gif': 26}
+===== timesfreepress.com 9090 =====
+{'https://wehco.blueconic.net/DG/DEFAULT/rest/rpc/161': 8}
+===== pornhat.com 9107 =====
+{'https://syndication.realsrv.com/v1/api.php': 8}
+===== journalstar.com 9127 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://ib.adnxs.com/ut/v3/prebid': 15, 'https://track1.aniview.com/track': 7}
+===== juneauempire.com 9144 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 9}
+===== ufc.com 9184 =====
+{'https://www.facebook.com/tr/': 6}
+===== pressdemocrat.com 9134 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 12}
+===== bluehost.in 9214 =====
+{'https://www.google-analytics.com/collect': 11}
+===== steelseries.com 9250 =====
+{'https://analytics.tiktok.com/i18n/pixel/log': 13}
+===== free-ebooks.net 9268 =====
+{'https://www.facebook.com/tr/': 8, 'https://bidder.criteo.com/cdb': 13, 'https://ssc.33across.com/api/v1/hb': 17, 'https://tlx.3lift.com/header/auction': 13, 'https://ib.adnxs.com/ut/v3/prebid': 13, 'https://hbopenbid.pubmatic.com/translator': 13, 'https://htlb.casalemedia.com/cygnus': 13, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 15, 'https://i.connectad.io/api/v2': 13, 'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://bidder.criteo.com/csm/events': 9, 'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== tn.com.ar 9291 =====
+{':///pf/api/v3/content/fetch/get-stories': 18, ':///pf/api/v3/content/fetch/content-api': 6}
+===== report.az 9290 =====
+{'https://mc.yandex.ru/webvisor/51449475': 7}
+===== sherdog.com 9255 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 37, 'https://ib.adnxs.com/ut/v3/prebid': 33, 'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 11, 'https://ap.lijit.com/rtb/bid': 32, 'https://hbopenbid.pubmatic.com/translator': 32, 'https://adpone-d.openx.net/w/1.0/arj': 32, 'https://prg.smartadserver.com/prebid/v1': 32, 'https://bidder.criteo.com/cdb': 32, 'https://adx.adform.net/adx/': 32, 'https://ads.betweendigital.com/adjson': 32, 'https://i.connectad.io/api/v2': 32}
+===== theamericanconservative.com 9315 =====
+{'https://pixel.anyclip.com/vmp.gif': 6}
+===== codinghorror.com 9296 =====
+{'https://googleads.g.doubleclick.net/pagead/id': 12, 'https://www.youtube.com/youtubei/v1/log_event': 14}
+===== justin.tv 9282 =====
+{'wss://pubsub-edge.twitch.tv/v1': 16}
+===== newduba.cn 9329 =====
+{'https://www.newduba.cn/main3_json.html': 25, 'data://image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7': 10}
+===== gfk.com 9335 =====
+{'https://track.hubspot.com/__ptq.gif': 10}
+===== decider.com 9370 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 6, 'https://cm.g.doubleclick.net/pixel': 6}
+===== stereogum.com 9355 =====
+{'https://prebid.adnxs.com/pbs/v1/openrtb2/auction': 10, 'https://mpbs.rubiconproject.com/openrtb2/auction': 10, 'https://tlx.3lift.com/header/auction': 10, 'https://htlb.casalemedia.com/cygnus': 15, 'https://a.teads.tv/hb/bid-request': 10, 'https://c2shb.ssp.yahoo.com/bidRequest': 12, 'https://ib.adnxs.com/ut/v3/prebid': 22, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 15, 'https://hbopenbid.pubmatic.com/translator': 10, 'https://bidder.criteo.com/cdb': 10, 'https://cafemedia-d.openx.net/w/1.0/arj': 10, 'https://dmx.districtm.io/b/v1': 10, 'https://securepubads.g.doubleclick.net/gampad/ads': 11, 'https://ssc-cms.33across.com/ps/': 7, 'https://pagead2.googlesyndication.com/pcs/activeview': 6}
+===== bellevuereporter.com 9394 =====
+{'https://securepubads.g.doubleclick.net/gampad/ads': 15}
+===== checkout.com 9402 =====
+{'https://rum-http-intake.logs.datadoghq.com/v1/input/pub9867f1220d58125c68603c80759cc180': 6}
+===== ok.xxx 9412 =====
+{'https://syndication.realsrv.com/v1/api.php': 8}
+===== physicsworld.com 9419 =====
+{'https://csi.gstatic.com/csi': 11, 'https://securepubads.g.doubleclick.net/pcs/view': 15}
+===== izvestia.ru 9379 =====
+{'https://tt.onthe.io/': 9}
+===== tv9kannada.com 9423 =====
+{'https://nep.advangelists.com/xp/get': 10, 'https://ssc.33across.com/api/v1/hb': 10, 'https://prg8.smartadserver.com/prebid/v1': 10}
+===== cmswire.com 9434 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 7}
+===== appcues.net 9396 =====
+{'https://www.google-analytics.com/collect': 10}
+===== kurier.at 9439 =====
+{'https://tt.onthe.io/': 16, 'https://securepubads.g.doubleclick.net/gampad/ads': 6}
+===== news4jax.com 9443 =====
+{'https://grahammedia-tagan.adlightning.com/place': 10}
+===== gazette.com 9483 =====
+{'https://www.google-analytics.com/collect': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 11, 'https://securepubads.g.doubleclick.net/gampad/ads': 12, 'https://hbopenbid.pubmatic.com/translator': 8, 'https://os4m-d.openx.net/w/1.0/arj': 8, 'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://apex.go.sonobi.com/trinity.json': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8, 'https://tag.1rx.io/rmp/232824/0/mvo': 8, 'https://ap.lijit.com/rtb/bid': 8, 'https://htlb.casalemedia.com/cygnus': 8, 'https://pagead2.googlesyndication.com/getconfig/sodar': 7}
+===== hugoboss.com 9494 =====
+{'https://www.facebook.com/tr/': 6}
+===== gobankingrates.com 9492 =====
+{'https://www.google-analytics.com/collect': 18, 'https://www.facebook.com/tr/': 12, 'https://securepubads.g.doubleclick.net/pcs/view': 9, 'https://logx.optimizely.com/v1/events': 9, 'https://api.getblueshift.com/unity.gif': 14}
+===== sportsmole.co.uk 9477 =====
+{'https://ib.adnxs.com/ut/v3/prebid': 8, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 7}
+===== blic.rs 9501 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 10}
+===== mb.com.ph 9602 =====
+{'https://prg.smartadserver.com/prebid/v1': 21}
+===== edmontonjournal.com 9636 =====
+{'https://a.wishabi.com/track.gif': 6}
+===== arkansasonline.com 9698 =====
+{'https://wehco.blueconic.net/DG/DEFAULT/rest/rpc/723': 8}
+===== metrolyrics.com 9704 =====
+{'https://cbsdfp5832910442.s.moatpixel.com/pixel.gif': 9}
+===== goodmenproject.com 9703 =====
+{'https://q.stripe.com': 6, 'https://api.leadpages.io/analytics/v1/observations/capture': 8, 'https://api.leadpages.io/analytics/v1/events/capture': 8}
+===== eiseverywhere.com 9717 =====
+{'https://track.hubspot.com/__ptq.gif': 10}
+===== 1001freefonts.com 9737 =====
+{'https://ssc.33across.com/api/v1/hb': 9, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 7, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://c2shb.ssp.yahoo.com/bidRequest': 7, 'https://c.pub.network/c': 9}
+===== cutestat.com 9738 =====
+{'https://la-wf.taboola.com/VideoBidRequestHandlerServlet': 8}
+===== guru3d.com 9747 =====
+{'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== kmart.com 9744 =====
+{'https://tlx.3lift.com/header/auction': 9, 'https://ib.adnxs.com/ut/v3/prebid': 9, 'https://btlr.sharethrough.com/WYu2BXv1/v1': 9, 'https://htlb.casalemedia.com/cygnus': 9, 'https://ap.lijit.com/rtb/bid': 9, 'https://bidder.criteo.com/cdb': 9, 'https://ads.yieldmo.com/exchange/prebid': 9, 'https://c2shb.ssp.yahoo.com/bidRequest': 9, 'https://hbopenbid.pubmatic.com/translator': 9, 'https://dmx.districtm.io/b/v1': 9, 'https://fastlane.rubiconproject.com/a/api/fastlane.json': 9, 'https://freestar-d.openx.net/w/1.0/arj': 9, 'https://ssc.33across.com/api/v1/hb': 6, 'https://securepubads.g.doubleclick.net/gampad/ads': 9, 'https://as-sec.casalemedia.com/headerstats': 9}
+===== thesimpledollar.com 9763 =====
+{'https://ingest.make.rvapps.io/v2/t': 12}
+===== fashion-press.net 9732 =====
+{'https://y.one.impact-ad.jp/h_bid': 8}
+===== ithemes.com 9814 =====
+{'https://pixel-geo.prfct.co/cs/': 6}
+===== rocketnews24.com 9840 =====
+{'https://g2.gumgum.com/hbid/imp': 6, 'https://securepubads.g.doubleclick.net/pcs/view': 8}
+===== nessma.tv 9853 =====
+{'https://t.lkqd.net/t': 6}
+===== publico.pt 9865 =====
+{'https://fundingchoicesmessages.google.com/l/AGSKWxWLBsN9Co_SNNmgbiMFaYI-hefgnnWSij5H7aG28Ht8aQXQgY0-rxsLn_EOCR_U7Akf7EOqYZzVT1GsYkJCfDUVVkpsFqTHlsWDmqRIv9MeoGPKhdrdGYHgD7yYTjTAOaMpHgkEIQS4-gOwbXf_F2VyIS34TNogFND_Wh0DCZg57Qj1SCN-Z1CGf3Kw': 6}
+===== economictimes.com 9874 =====
+{'https://hb.emxdgt.com/': 7, 'https://hbopenbid.pubmatic.com/translator': 7, 'https://ib.adnxs.com/ut/v3/prebid': 6, 'https://hb.undertone.com/hb': 6, 'https://as-sec.casalemedia.com/headerstats': 7}
+===== nwitimes.com 9876 =====
+{'https://ssc-cms.33across.com/ps/': 6}
+===== escapistmagazine.com 9883 =====
+{'https://fastlane.rubiconproject.com/a/api/fastlane.json': 8, 'https://c2shb.ssp.yahoo.com/bidRequest': 8, 'https://g2.gumgum.com/hbid/imp': 8}
+===== ex.co 9905 =====
+{'https://prd-collector-platform.ex.co/main/events': 8, 'https://www.google-analytics.com/collect': 7}
+===== in.com 9923 =====
+{'https://hbopenbid.pubmatic.com/translator': 11, 'https://securepubads.g.doubleclick.net/pcs/view': 7, 'https://track1.aniview.com/track': 8}
+===== banki.ru 9928 =====
+{'https://www.google-analytics.com/collect': 7, 'https://www.facebook.com/tr/': 6}
+===== gizmodo.jp 9936 =====
+{'https://d.socdm.com/adsv/v1': 6}
+===== cpuid.com 9979 =====
+{'https://pagead2.googlesyndication.com/pagead/gen_204': 8}
+TOTAL 860
+has_different 674
+first_different 670
+other_different 673
+all_different 628
+all_same 391
+contains_key_word 148
